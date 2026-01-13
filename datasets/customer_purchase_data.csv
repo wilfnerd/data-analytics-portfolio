@@ -1,0 +1,1001 @@
+customer_id,age,gender,region,purchase_date,product_category,order_value,payment_method,repeat_customer
+1,66,Male,East,2025-10-20 12:28:20.220644,Electronics,59.52,Debit Card,0
+2,39,Male,South,2024-02-22 12:28:20.220644,Electronics,55.95,Credit Card,0
+3,67,Female,South,2024-11-03 12:28:20.220644,Clothing,42.12,Credit Card,0
+4,67,Female,South,2024-01-15 12:28:20.220644,Sports,119.16,Credit Card,0
+5,66,Female,South,2025-12-18 12:28:20.220644,Clothing,76.2,Credit Card,1
+6,29,Male,North,2024-05-01 12:28:20.220644,Clothing,123.72,Credit Card,0
+7,38,Female,South,2024-08-20 12:28:20.220644,Beauty,67.7,Credit Card,0
+8,21,Male,East,2025-01-16 12:28:20.220644,Clothing,29.31,PayPal,1
+9,48,Female,North,2025-01-14 12:28:20.220644,Electronics,227.99,Credit Card,1
+10,61,Male,North,2025-03-23 12:28:20.220644,Electronics,67.65,Credit Card,0
+11,48,Female,North,2024-01-16 12:28:20.220644,Clothing,140.71,Credit Card,0
+12,40,Female,East,2024-09-12 12:28:20.220644,Electronics,37.82,Debit Card,0
+13,37,Female,West,2024-06-26 12:28:20.220644,Electronics,86.17,Credit Card,1
+14,32,Male,North,2024-02-07 12:28:20.220644,Beauty,155.01,Credit Card,1
+15,40,Male,West,2025-02-10 12:28:20.220644,Electronics,73.76,Credit Card,1
+16,45,Male,North,2025-04-30 12:28:20.220644,Beauty,49.51,PayPal,0
+17,33,Female,West,2024-01-29 12:28:20.220644,Beauty,57.28,Bank Transfer,0
+18,54,Female,South,2026-01-09 12:28:20.220644,Home,28.83,Bank Transfer,0
+19,38,Male,East,2024-04-13 12:28:20.220644,Clothing,32.68,Credit Card,1
+20,32,Female,East,2025-05-09 12:28:20.220644,Electronics,168.29,Debit Card,0
+21,34,Female,South,2025-07-08 12:28:20.220644,Beauty,15.86,Debit Card,0
+22,67,Female,West,2024-08-04 12:28:20.220644,Home,51.6,Credit Card,0
+23,54,Male,West,2025-05-28 12:28:20.220644,Beauty,179.49,Credit Card,0
+24,30,Male,South,2025-02-15 12:28:20.220644,Electronics,8.91,Credit Card,1
+25,36,Male,North,2024-08-06 12:28:20.220644,Sports,29.71,PayPal,0
+26,47,Female,North,2025-09-22 12:28:20.220644,Electronics,169.57,Credit Card,0
+27,62,Male,West,2024-06-06 12:28:20.220644,Clothing,194.52,Credit Card,0
+28,35,Female,East,2024-04-22 12:28:20.220644,Clothing,114.27,Credit Card,1
+29,31,Female,South,2024-09-09 12:28:20.220644,Electronics,47.5,Debit Card,0
+30,53,Female,East,2024-06-23 12:28:20.220644,Home,102.25,PayPal,0
+31,53,Female,West,2024-07-03 12:28:20.220644,Beauty,186.09,Debit Card,0
+32,37,Male,East,2025-05-28 12:28:20.220644,Beauty,65.5,Debit Card,0
+33,69,Male,West,2025-07-12 12:28:20.220644,Sports,175.74,Debit Card,1
+34,36,Female,West,2024-10-22 12:28:20.220644,Home,484.96,Credit Card,0
+35,62,Male,South,2025-01-05 12:28:20.220644,Home,118.06,Credit Card,1
+36,61,Male,South,2025-01-27 12:28:20.220644,Electronics,98.72,Bank Transfer,0
+37,24,Male,West,2025-06-28 12:28:20.220644,Home,47.47,Bank Transfer,1
+38,61,Male,South,2024-06-23 12:28:20.220644,Electronics,18.54,Debit Card,1
+39,21,Male,West,2025-09-12 12:28:20.220644,Clothing,36.2,Credit Card,0
+40,51,Female,North,2024-11-14 12:28:20.220644,Clothing,100.29,Credit Card,1
+41,19,Female,North,2024-12-16 12:28:20.220644,Clothing,11.82,Credit Card,0
+42,22,Female,West,2024-03-07 12:28:20.220644,Home,205.89,PayPal,0
+43,27,Male,East,2024-12-10 12:28:20.220644,Sports,174.23,Debit Card,0
+44,49,Male,South,2024-05-18 12:28:20.220644,Clothing,203.27,PayPal,0
+45,59,Male,West,2025-12-17 12:28:20.220644,Sports,86.09,Debit Card,1
+46,58,Female,East,2024-09-11 12:28:20.220644,Beauty,29.02,Credit Card,0
+47,30,Male,East,2025-09-03 12:28:20.220644,Home,186.15,Credit Card,1
+48,56,Female,North,2025-02-24 12:28:20.220644,Home,36.35,Credit Card,0
+49,22,Female,West,2025-05-29 12:28:20.220644,Electronics,4.91,Debit Card,0
+50,27,Male,West,2026-01-08 12:28:20.220644,Beauty,33.31,Credit Card,1
+51,27,Male,North,2025-09-07 12:28:20.220644,Home,52.29,Debit Card,1
+52,55,Other,West,2024-11-10 12:28:20.220644,Sports,64.27,Debit Card,1
+53,44,Other,West,2025-04-20 12:28:20.220644,Home,45.33,Credit Card,1
+54,68,Male,East,2024-09-03 12:28:20.220644,Beauty,132.6,Credit Card,1
+55,38,Male,East,2025-12-08 12:28:20.220644,Beauty,68.9,Credit Card,0
+56,25,Other,South,2024-02-19 12:28:20.220644,Clothing,36.75,Debit Card,1
+57,18,Male,South,2024-05-30 12:28:20.220644,Clothing,300.26,Credit Card,0
+58,45,Male,East,2024-07-25 12:28:20.220644,Clothing,88.37,Credit Card,0
+59,66,Male,West,2025-06-22 12:28:20.220644,Home,83.33,PayPal,0
+60,56,Female,East,2025-10-20 12:28:20.220644,Electronics,178.73,Debit Card,0
+61,31,Male,East,2024-01-13 12:28:20.220644,Sports,34.72,Debit Card,0
+62,38,Male,North,2025-07-26 12:28:20.220644,Home,268.88,Debit Card,1
+63,47,Male,North,2024-04-17 12:28:20.220644,Sports,96.7,PayPal,1
+64,38,Female,South,2025-12-25 12:28:20.220644,Beauty,48.02,Debit Card,0
+65,66,Other,North,2025-02-28 12:28:20.220644,Home,225.12,Credit Card,0
+66,26,Female,East,2025-07-03 12:28:20.220644,Sports,90.06,Credit Card,0
+67,34,Female,South,2025-03-16 12:28:20.220644,Home,133.29,PayPal,0
+68,22,Female,West,2024-09-03 12:28:20.220644,Sports,10.07,Debit Card,1
+69,48,Male,South,2024-12-26 12:28:20.220644,Clothing,14.58,Debit Card,0
+70,69,Male,East,2025-05-07 12:28:20.220644,Clothing,64.74,PayPal,0
+71,57,Female,East,2025-02-11 12:28:20.220644,Clothing,68.2,PayPal,1
+72,55,Male,North,2024-12-28 12:28:20.220644,Home,185.8,Credit Card,1
+73,60,Male,North,2025-03-03 12:28:20.220644,Home,22.03,Credit Card,1
+74,36,Female,South,2024-03-03 12:28:20.220644,Home,237.37,Credit Card,1
+75,53,Male,West,2024-04-02 12:28:20.220644,Clothing,185.64,PayPal,0
+76,67,Male,North,2024-02-17 12:28:20.220644,Sports,201.88,Credit Card,0
+77,50,Other,East,2024-03-19 12:28:20.220644,Home,28.12,Credit Card,1
+78,30,Female,West,2025-10-14 12:28:20.220644,Clothing,114.4,Credit Card,1
+79,31,Male,West,2025-11-09 12:28:20.220644,Beauty,165.88,Credit Card,0
+80,50,Other,North,2025-09-26 12:28:20.220644,Beauty,101.67,Credit Card,0
+81,46,Female,West,2025-11-22 12:28:20.220644,Sports,86.02,Credit Card,1
+82,60,Female,North,2025-05-07 12:28:20.220644,Home,96.64,Debit Card,0
+83,66,Male,South,2025-04-24 12:28:20.220644,Electronics,50.2,Credit Card,0
+84,53,Male,West,2024-06-02 12:28:20.220644,Clothing,154.32,Credit Card,0
+85,61,Female,East,2025-01-02 12:28:20.220644,Home,195.05,PayPal,0
+86,27,Female,South,2025-12-21 12:28:20.220644,Sports,40.87,PayPal,0
+87,48,Female,South,2025-04-27 12:28:20.220644,Clothing,155.76,Credit Card,0
+88,23,Male,South,2025-09-24 12:28:20.220644,Sports,41.2,Credit Card,1
+89,18,Male,East,2025-08-25 12:28:20.220644,Home,50.82,Debit Card,0
+90,24,Female,South,2025-11-15 12:28:20.220644,Sports,14.87,Credit Card,0
+91,44,Male,West,2025-03-26 12:28:20.220644,Electronics,89.97,Credit Card,0
+92,38,Female,West,2025-06-26 12:28:20.220644,Sports,78.23,Credit Card,1
+93,45,Male,West,2024-05-18 12:28:20.220644,Sports,53.01,Credit Card,0
+94,33,Male,South,2024-08-04 12:28:20.220644,Sports,192.09,Debit Card,0
+95,63,Female,East,2024-02-10 12:28:20.220644,Electronics,203.5,PayPal,1
+96,40,Female,West,2025-04-01 12:28:20.220644,Electronics,89.15,PayPal,0
+97,69,Male,West,2025-12-31 12:28:20.220644,Beauty,74.55,Debit Card,0
+98,37,Male,South,2025-04-20 12:28:20.220644,Electronics,268.57,Credit Card,0
+99,55,Female,North,2024-10-18 12:28:20.220644,Electronics,76.82,Debit Card,1
+100,42,Male,North,2024-06-11 12:28:20.220644,Electronics,40.04,Credit Card,1
+101,45,Female,East,2024-09-08 12:28:20.220644,Home,60.2,Credit Card,1
+102,22,Other,East,2024-10-04 12:28:20.220644,Home,81.18,Debit Card,0
+103,38,Male,West,2025-12-06 12:28:20.220644,Electronics,117.74,PayPal,1
+104,35,Female,South,2024-04-26 12:28:20.220644,Electronics,31.54,Credit Card,0
+105,64,Male,North,2025-03-20 12:28:20.220644,Home,39.28,PayPal,1
+106,23,Female,South,2025-05-23 12:28:20.220644,Home,148.61,Credit Card,1
+107,46,Male,South,2025-03-27 12:28:20.220644,Electronics,26.57,Credit Card,0
+108,36,Other,North,2025-11-27 12:28:20.220644,Clothing,135.23,Credit Card,1
+109,50,Male,East,2024-06-18 12:28:20.220644,Sports,61.61,Debit Card,0
+110,18,Male,East,2024-07-02 12:28:20.220644,Sports,13.05,PayPal,0
+111,62,Other,East,2025-05-20 12:28:20.220644,Sports,84.21,Debit Card,1
+112,20,Female,South,2024-11-18 12:28:20.220644,Sports,78.51,Credit Card,0
+113,59,Female,South,2025-02-18 12:28:20.220644,Clothing,179.17,Credit Card,0
+114,38,Male,South,2025-11-11 12:28:20.220644,Beauty,96.37,Debit Card,0
+115,52,Female,West,2025-11-18 12:28:20.220644,Clothing,164.07,Credit Card,1
+116,58,Male,North,2025-11-01 12:28:20.220644,Home,139.81,Credit Card,0
+117,57,Male,West,2025-11-08 12:28:20.220644,Clothing,227.42,Bank Transfer,0
+118,20,Female,South,2025-04-19 12:28:20.220644,Home,113.28,Debit Card,1
+119,42,Male,West,2025-01-13 12:28:20.220644,Home,55.18,Credit Card,0
+120,62,Female,West,2025-07-15 12:28:20.220644,Electronics,188.79,Credit Card,0
+121,55,Female,South,2025-10-16 12:28:20.220644,Beauty,63.12,Credit Card,1
+122,62,Female,East,2024-09-23 12:28:20.220644,Electronics,250.15,Debit Card,0
+123,37,Female,North,2024-08-07 12:28:20.220644,Clothing,96.94,PayPal,1
+124,69,Female,West,2025-04-06 12:28:20.220644,Electronics,80.17,Debit Card,0
+125,61,Male,South,2024-04-16 12:28:20.220644,Clothing,176.17,Credit Card,1
+126,62,Female,South,2025-05-04 12:28:20.220644,Electronics,15.13,Credit Card,1
+127,51,Male,East,2025-11-25 12:28:20.220644,Sports,25.76,Bank Transfer,0
+128,38,Male,West,2024-07-20 12:28:20.220644,Clothing,22.47,Bank Transfer,0
+129,65,Female,North,2025-12-23 12:28:20.220644,Home,186.7,Debit Card,1
+130,40,Female,East,2025-05-10 12:28:20.220644,Clothing,45.66,Credit Card,0
+131,23,Female,South,2025-07-01 12:28:20.220644,Home,131.93,Debit Card,0
+132,68,Male,South,2025-03-10 12:28:20.220644,Beauty,53.22,PayPal,1
+133,30,Female,East,2025-10-13 12:28:20.220644,Home,44.1,Debit Card,1
+134,66,Male,South,2025-09-08 12:28:20.220644,Beauty,139.47,Debit Card,1
+135,40,Female,South,2024-05-24 12:28:20.220644,Sports,152.28,Credit Card,0
+136,26,Female,West,2024-03-07 12:28:20.220644,Sports,120.35,Credit Card,0
+137,34,Female,North,2025-06-05 12:28:20.220644,Beauty,87.81,Credit Card,1
+138,19,Male,East,2025-11-12 12:28:20.220644,Electronics,21.47,PayPal,1
+139,36,Male,North,2025-07-06 12:28:20.220644,Home,40.47,Debit Card,1
+140,36,Male,North,2025-02-25 12:28:20.220644,Home,48.78,PayPal,1
+141,24,Female,North,2024-08-10 12:28:20.220644,Beauty,50.23,Credit Card,1
+142,59,Female,East,2025-11-08 12:28:20.220644,Beauty,144.67,PayPal,0
+143,59,Male,East,2024-10-31 12:28:20.220644,Beauty,133.62,PayPal,1
+144,37,Female,North,2024-05-06 12:28:20.220644,Beauty,117.57,Credit Card,0
+145,26,Female,North,2025-11-12 12:28:20.220644,Electronics,62.0,PayPal,0
+146,34,Female,West,2024-09-27 12:28:20.220644,Electronics,44.06,Credit Card,0
+147,44,Female,North,2024-05-13 12:28:20.220644,Clothing,180.22,Credit Card,1
+148,64,Female,West,2024-11-06 12:28:20.220644,Sports,269.82,Credit Card,1
+149,19,Male,North,2025-01-27 12:28:20.220644,Beauty,109.0,PayPal,0
+150,53,Male,East,2025-07-26 12:28:20.220644,Beauty,53.54,PayPal,0
+151,36,Male,South,2025-05-27 12:28:20.220644,Beauty,141.3,Credit Card,0
+152,34,Other,West,2024-11-04 12:28:20.220644,Beauty,68.62,Debit Card,1
+153,22,Female,East,2025-01-08 12:28:20.220644,Sports,84.53,Debit Card,1
+154,56,Female,South,2025-08-23 12:28:20.220644,Beauty,59.91,PayPal,0
+155,35,Male,North,2025-04-19 12:28:20.220644,Home,268.26,Credit Card,1
+156,24,Male,East,2025-03-25 12:28:20.220644,Beauty,164.96,Debit Card,0
+157,34,Male,East,2024-05-18 12:28:20.220644,Electronics,132.41,Debit Card,0
+158,56,Male,North,2024-07-27 12:28:20.220644,Beauty,12.79,Credit Card,0
+159,53,Female,North,2024-08-20 12:28:20.220644,Clothing,75.34,Credit Card,1
+160,57,Other,West,2024-04-12 12:28:20.220644,Electronics,120.67,Debit Card,0
+161,62,Female,South,2025-02-26 12:28:20.220644,Beauty,32.88,Credit Card,1
+162,21,Female,East,2024-01-20 12:28:20.220644,Home,129.0,Bank Transfer,0
+163,55,Male,South,2025-07-09 12:28:20.220644,Sports,31.76,Credit Card,0
+164,42,Male,West,2025-04-24 12:28:20.220644,Clothing,70.4,Bank Transfer,0
+165,22,Male,West,2024-11-27 12:28:20.220644,Home,141.26,Credit Card,0
+166,47,Female,West,2025-02-09 12:28:20.220644,Clothing,91.34,Credit Card,0
+167,29,Female,North,2024-10-07 12:28:20.220644,Electronics,67.22,Credit Card,1
+168,21,Male,West,2024-07-21 12:28:20.220644,Clothing,209.33,PayPal,0
+169,41,Male,South,2025-11-17 12:28:20.220644,Clothing,126.84,PayPal,1
+170,46,Male,East,2024-03-13 12:28:20.220644,Electronics,128.54,Credit Card,0
+171,26,Male,East,2025-03-25 12:28:20.220644,Clothing,122.37,Credit Card,0
+172,21,Male,North,2024-10-02 12:28:20.220644,Electronics,111.88,Debit Card,0
+173,68,Male,West,2024-04-16 12:28:20.220644,Beauty,130.99,Credit Card,1
+174,41,Male,North,2025-07-18 12:28:20.220644,Electronics,222.68,PayPal,0
+175,31,Female,East,2025-04-26 12:28:20.220644,Home,144.76,Credit Card,0
+176,22,Female,West,2025-11-03 12:28:20.220644,Beauty,133.08,Debit Card,1
+177,35,Male,West,2025-12-28 12:28:20.220644,Home,118.07,Debit Card,0
+178,59,Male,North,2025-06-09 12:28:20.220644,Sports,232.07,Bank Transfer,1
+179,36,Male,South,2025-12-02 12:28:20.220644,Beauty,20.22,Debit Card,0
+180,29,Male,West,2024-07-24 12:28:20.220644,Beauty,45.44,Credit Card,1
+181,35,Male,South,2025-05-08 12:28:20.220644,Electronics,278.33,Credit Card,0
+182,34,Female,South,2024-12-13 12:28:20.220644,Beauty,76.28,Debit Card,1
+183,47,Female,South,2025-03-22 12:28:20.220644,Beauty,18.8,Debit Card,0
+184,41,Female,South,2024-07-26 12:28:20.220644,Clothing,93.6,PayPal,0
+185,28,Male,West,2024-09-17 12:28:20.220644,Electronics,42.84,Debit Card,0
+186,52,Female,South,2025-05-24 12:28:20.220644,Clothing,116.25,Debit Card,0
+187,40,Male,East,2024-08-11 12:28:20.220644,Beauty,42.87,Credit Card,1
+188,34,Male,South,2025-11-07 12:28:20.220644,Clothing,177.38,Credit Card,0
+189,18,Female,South,2025-11-12 12:28:20.220644,Beauty,151.54,Credit Card,0
+190,32,Female,North,2025-04-22 12:28:20.220644,Electronics,112.73,Credit Card,0
+191,49,Female,South,2025-10-24 12:28:20.220644,Beauty,72.78,Debit Card,0
+192,26,Female,South,2024-08-20 12:28:20.220644,Clothing,144.67,Credit Card,0
+193,32,Female,East,2024-10-11 12:28:20.220644,Electronics,167.03,Credit Card,0
+194,45,Female,South,2024-06-14 12:28:20.220644,Home,89.44,Credit Card,1
+195,41,Female,South,2024-09-17 12:28:20.220644,Electronics,62.88,Credit Card,1
+196,52,Female,South,2024-10-17 12:28:20.220644,Electronics,118.32,Credit Card,0
+197,39,Female,North,2025-03-27 12:28:20.220644,Clothing,78.72,Debit Card,1
+198,44,Other,West,2024-10-14 12:28:20.220644,Home,92.64,Credit Card,0
+199,36,Female,East,2025-06-09 12:28:20.220644,Sports,133.84,Debit Card,0
+200,62,Male,North,2024-04-09 12:28:20.220644,Beauty,32.08,Debit Card,0
+201,29,Female,North,2025-10-15 12:28:20.220644,Home,162.62,Bank Transfer,0
+202,37,Male,West,2025-05-31 12:28:20.220644,Electronics,85.65,Credit Card,0
+203,18,Male,North,2025-08-24 12:28:20.220644,Home,13.47,Credit Card,1
+204,38,Male,West,2024-09-09 12:28:20.220644,Beauty,47.81,Credit Card,1
+205,66,Female,North,2025-10-26 12:28:20.220644,Clothing,33.58,Credit Card,0
+206,62,Female,West,2025-11-17 12:28:20.220644,Electronics,98.85,PayPal,0
+207,18,Male,West,2024-09-04 12:28:20.220644,Clothing,83.91,Debit Card,1
+208,27,Male,East,2024-05-19 12:28:20.220644,Beauty,51.85,Debit Card,0
+209,64,Male,North,2025-05-29 12:28:20.220644,Clothing,332.88,Credit Card,1
+210,49,Female,South,2024-07-30 12:28:20.220644,Beauty,86.9,Debit Card,0
+211,56,Male,South,2025-07-08 12:28:20.220644,Clothing,72.19,Credit Card,0
+212,39,Male,South,2025-05-28 12:28:20.220644,Electronics,64.25,Debit Card,0
+213,35,Male,South,2025-10-23 12:28:20.220644,Clothing,272.31,Debit Card,1
+214,65,Female,North,2025-05-18 12:28:20.220644,Home,31.84,Credit Card,1
+215,63,Male,East,2024-02-02 12:28:20.220644,Electronics,53.06,Credit Card,0
+216,49,Female,East,2024-09-02 12:28:20.220644,Electronics,253.14,PayPal,1
+217,44,Male,South,2025-12-26 12:28:20.220644,Electronics,102.85,Credit Card,0
+218,45,Female,North,2025-10-16 12:28:20.220644,Electronics,58.82,Credit Card,0
+219,35,Male,West,2025-03-03 12:28:20.220644,Clothing,265.1,Credit Card,1
+220,56,Female,South,2024-06-08 12:28:20.220644,Sports,115.13,Credit Card,0
+221,66,Male,West,2024-02-10 12:28:20.220644,Home,101.83,Debit Card,0
+222,46,Female,South,2025-01-07 12:28:20.220644,Home,40.04,Debit Card,0
+223,35,Female,North,2024-11-15 12:28:20.220644,Clothing,61.72,PayPal,1
+224,61,Female,South,2024-06-22 12:28:20.220644,Clothing,17.54,Credit Card,1
+225,25,Female,South,2024-03-13 12:28:20.220644,Electronics,120.8,Debit Card,1
+226,48,Male,West,2024-05-16 12:28:20.220644,Home,198.92,PayPal,0
+227,51,Female,East,2025-04-12 12:28:20.220644,Home,37.53,Credit Card,1
+228,24,Female,South,2024-03-23 12:28:20.220644,Electronics,85.61,Credit Card,0
+229,53,Male,West,2025-04-22 12:28:20.220644,Beauty,74.45,PayPal,1
+230,35,Female,South,2024-09-11 12:28:20.220644,Home,23.42,Credit Card,0
+231,55,Male,West,2025-05-16 12:28:20.220644,Clothing,173.3,Credit Card,0
+232,26,Male,West,2024-08-20 12:28:20.220644,Electronics,17.46,Credit Card,0
+233,26,Male,North,2025-04-29 12:28:20.220644,Home,52.09,Credit Card,1
+234,63,Male,South,2025-06-28 12:28:20.220644,Beauty,344.8,Credit Card,1
+235,25,Female,South,2025-05-20 12:28:20.220644,Clothing,137.85,Credit Card,0
+236,68,Male,East,2024-04-03 12:28:20.220644,Electronics,77.69,Debit Card,0
+237,52,Male,East,2025-06-17 12:28:20.220644,Home,19.73,Credit Card,1
+238,35,Male,West,2024-01-24 12:28:20.220644,Electronics,176.09,PayPal,0
+239,22,Female,East,2024-10-01 12:28:20.220644,Beauty,215.31,Credit Card,1
+240,31,Female,North,2025-10-30 12:28:20.220644,Home,22.47,Bank Transfer,1
+241,45,Male,North,2025-04-05 12:28:20.220644,Electronics,136.52,Bank Transfer,0
+242,47,Male,East,2024-07-22 12:28:20.220644,Electronics,174.26,PayPal,0
+243,21,Male,North,2024-05-05 12:28:20.220644,Home,207.55,PayPal,0
+244,56,Female,West,2024-02-07 12:28:20.220644,Clothing,97.08,Debit Card,0
+245,37,Female,South,2025-05-25 12:28:20.220644,Electronics,70.35,PayPal,0
+246,42,Male,South,2025-06-03 12:28:20.220644,Beauty,22.54,Credit Card,1
+247,45,Male,North,2025-07-10 12:28:20.220644,Clothing,65.53,Credit Card,0
+248,29,Female,East,2024-03-14 12:28:20.220644,Home,80.89,PayPal,0
+249,19,Female,North,2024-08-28 12:28:20.220644,Electronics,31.85,Credit Card,1
+250,60,Male,West,2025-09-10 12:28:20.220644,Home,57.05,PayPal,1
+251,31,Male,South,2024-02-16 12:28:20.220644,Clothing,96.13,PayPal,1
+252,39,Male,West,2025-12-17 12:28:20.220644,Sports,48.75,Credit Card,0
+253,48,Female,East,2025-04-12 12:28:20.220644,Beauty,71.55,PayPal,1
+254,40,Female,North,2025-08-22 12:28:20.220644,Electronics,92.78,Credit Card,1
+255,65,Female,West,2025-05-28 12:28:20.220644,Clothing,93.06,Credit Card,0
+256,37,Female,North,2025-08-29 12:28:20.220644,Clothing,40.9,Debit Card,0
+257,55,Male,South,2024-02-06 12:28:20.220644,Home,43.98,Credit Card,0
+258,21,Female,North,2025-08-03 12:28:20.220644,Beauty,23.13,Debit Card,1
+259,32,Female,West,2024-02-13 12:28:20.220644,Home,204.59,Debit Card,0
+260,41,Male,West,2024-01-24 12:28:20.220644,Electronics,71.41,Credit Card,1
+261,42,Female,East,2024-11-26 12:28:20.220644,Beauty,53.86,PayPal,1
+262,18,Male,East,2025-09-07 12:28:20.220644,Electronics,84.71,Debit Card,0
+263,24,Male,West,2024-01-13 12:28:20.220644,Beauty,170.99,Credit Card,0
+264,48,Female,North,2025-03-22 12:28:20.220644,Beauty,73.84,Credit Card,0
+265,29,Female,West,2024-05-27 12:28:20.220644,Clothing,74.72,PayPal,0
+266,59,Female,North,2024-07-26 12:28:20.220644,Clothing,18.06,PayPal,1
+267,22,Male,West,2024-05-24 12:28:20.220644,Beauty,275.75,Credit Card,1
+268,61,Female,East,2024-04-07 12:28:20.220644,Beauty,113.63,Credit Card,0
+269,67,Female,West,2025-05-02 12:28:20.220644,Clothing,7.39,PayPal,1
+270,59,Male,East,2024-12-01 12:28:20.220644,Clothing,24.6,Debit Card,0
+271,55,Other,South,2024-07-10 12:28:20.220644,Home,64.55,Credit Card,0
+272,29,Female,East,2025-06-11 12:28:20.220644,Electronics,140.86,Debit Card,0
+273,56,Male,North,2025-10-11 12:28:20.220644,Electronics,80.9,Credit Card,0
+274,35,Female,East,2024-07-05 12:28:20.220644,Electronics,68.76,PayPal,1
+275,19,Male,East,2024-02-02 12:28:20.220644,Electronics,291.05,Credit Card,1
+276,27,Male,West,2024-04-26 12:28:20.220644,Home,98.56,Credit Card,0
+277,32,Male,East,2025-08-12 12:28:20.220644,Sports,28.14,Credit Card,0
+278,47,Other,North,2025-03-30 12:28:20.220644,Beauty,143.62,Bank Transfer,0
+279,61,Male,South,2024-03-01 12:28:20.220644,Electronics,118.23,PayPal,0
+280,34,Female,East,2025-06-23 12:28:20.220644,Home,60.45,Debit Card,1
+281,21,Male,North,2024-06-05 12:28:20.220644,Home,152.6,Debit Card,1
+282,24,Female,South,2024-12-17 12:28:20.220644,Electronics,202.55,Credit Card,1
+283,58,Female,West,2024-12-31 12:28:20.220644,Sports,185.98,PayPal,0
+284,48,Female,East,2024-03-27 12:28:20.220644,Clothing,84.48,Credit Card,0
+285,68,Male,East,2025-08-12 12:28:20.220644,Sports,84.76,PayPal,0
+286,56,Female,South,2025-10-10 12:28:20.220644,Clothing,277.87,Credit Card,0
+287,51,Other,East,2024-11-26 12:28:20.220644,Home,33.03,Credit Card,0
+288,23,Female,South,2024-04-08 12:28:20.220644,Electronics,34.48,Debit Card,0
+289,67,Female,East,2025-07-18 12:28:20.220644,Home,106.75,PayPal,0
+290,55,Female,North,2025-12-10 12:28:20.220644,Electronics,159.57,PayPal,1
+291,62,Male,West,2024-02-23 12:28:20.220644,Beauty,21.47,Debit Card,1
+292,68,Female,South,2024-04-14 12:28:20.220644,Beauty,260.84,Credit Card,0
+293,51,Female,South,2025-12-09 12:28:20.220644,Beauty,257.27,PayPal,1
+294,61,Male,East,2026-01-08 12:28:20.220644,Beauty,172.84,Credit Card,0
+295,32,Male,East,2025-06-02 12:28:20.220644,Beauty,68.83,PayPal,0
+296,31,Male,North,2025-06-24 12:28:20.220644,Electronics,47.99,Debit Card,1
+297,23,Female,West,2024-10-03 12:28:20.220644,Home,22.37,Credit Card,0
+298,67,Female,South,2025-09-29 12:28:20.220644,Beauty,40.81,Credit Card,1
+299,54,Male,West,2024-10-30 12:28:20.220644,Home,88.48,Credit Card,0
+300,67,Male,West,2025-04-20 12:28:20.220644,Beauty,258.92,Credit Card,0
+301,49,Male,South,2025-07-25 12:28:20.220644,Electronics,71.06,Credit Card,0
+302,20,Male,West,2024-04-18 12:28:20.220644,Electronics,118.87,Credit Card,1
+303,20,Male,South,2024-04-16 12:28:20.220644,Sports,98.91,Credit Card,1
+304,39,Female,North,2024-12-03 12:28:20.220644,Home,126.51,Debit Card,1
+305,39,Male,West,2024-03-26 12:28:20.220644,Electronics,53.31,PayPal,1
+306,27,Female,East,2024-12-13 12:28:20.220644,Beauty,50.78,Credit Card,0
+307,68,Female,South,2024-03-20 12:28:20.220644,Sports,267.25,Credit Card,0
+308,20,Male,South,2024-03-29 12:28:20.220644,Electronics,91.65,Credit Card,1
+309,29,Female,South,2024-08-07 12:28:20.220644,Beauty,73.71,Debit Card,0
+310,46,Female,West,2024-08-20 12:28:20.220644,Sports,55.25,PayPal,1
+311,65,Female,North,2024-09-30 12:28:20.220644,Sports,139.28,Debit Card,0
+312,34,Male,South,2025-02-25 12:28:20.220644,Sports,158.1,PayPal,0
+313,24,Male,South,2024-12-08 12:28:20.220644,Home,51.53,Debit Card,0
+314,30,Male,South,2024-12-21 12:28:20.220644,Clothing,90.43,Debit Card,1
+315,19,Male,South,2024-03-26 12:28:20.220644,Electronics,238.62,Credit Card,1
+316,21,Male,North,2025-10-10 12:28:20.220644,Electronics,66.06,PayPal,0
+317,27,Male,North,2025-12-12 12:28:20.220644,Clothing,41.34,PayPal,0
+318,56,Male,South,2024-09-22 12:28:20.220644,Clothing,120.96,Debit Card,0
+319,41,Male,West,2024-12-09 12:28:20.220644,Electronics,95.02,PayPal,0
+320,34,Male,North,2025-02-13 12:28:20.220644,Clothing,55.81,Credit Card,1
+321,69,Male,West,2024-12-22 12:28:20.220644,Electronics,173.88,PayPal,0
+322,23,Other,West,2025-08-18 12:28:20.220644,Beauty,55.56,Credit Card,0
+323,36,Male,West,2025-11-10 12:28:20.220644,Clothing,56.63,Credit Card,0
+324,22,Female,West,2025-04-11 12:28:20.220644,Home,48.05,Credit Card,0
+325,49,Male,South,2024-05-06 12:28:20.220644,Home,40.14,Bank Transfer,1
+326,27,Female,North,2024-11-20 12:28:20.220644,Electronics,21.71,PayPal,0
+327,26,Male,South,2024-08-27 12:28:20.220644,Sports,15.04,PayPal,0
+328,44,Female,South,2024-09-13 12:28:20.220644,Home,46.38,PayPal,1
+329,30,Female,East,2025-06-21 12:28:20.220644,Clothing,128.6,Credit Card,0
+330,36,Male,East,2025-06-23 12:28:20.220644,Electronics,73.94,PayPal,1
+331,38,Female,West,2025-03-14 12:28:20.220644,Clothing,202.97,Bank Transfer,0
+332,41,Female,North,2024-02-23 12:28:20.220644,Electronics,63.05,Debit Card,0
+333,55,Male,West,2025-04-21 12:28:20.220644,Clothing,117.1,Credit Card,0
+334,21,Female,South,2025-09-25 12:28:20.220644,Home,12.29,Debit Card,0
+335,41,Female,South,2024-10-16 12:28:20.220644,Sports,22.88,Bank Transfer,0
+336,52,Female,South,2024-01-31 12:28:20.220644,Beauty,27.67,PayPal,0
+337,20,Male,West,2024-03-18 12:28:20.220644,Electronics,45.14,PayPal,0
+338,21,Female,South,2024-06-27 12:28:20.220644,Electronics,160.14,PayPal,0
+339,54,Female,West,2025-08-19 12:28:20.220644,Clothing,80.36,PayPal,1
+340,57,Female,West,2025-02-18 12:28:20.220644,Electronics,119.13,PayPal,1
+341,65,Female,West,2025-02-24 12:28:20.220644,Electronics,63.83,Debit Card,0
+342,52,Male,North,2024-05-03 12:28:20.220644,Beauty,115.95,Credit Card,0
+343,48,Female,West,2024-10-12 12:28:20.220644,Electronics,21.18,Debit Card,1
+344,61,Male,West,2025-02-22 12:28:20.220644,Beauty,93.33,Debit Card,1
+345,42,Male,North,2025-01-19 12:28:20.220644,Electronics,9.91,PayPal,0
+346,57,Female,North,2025-08-31 12:28:20.220644,Sports,64.36,Credit Card,0
+347,30,Female,North,2025-10-24 12:28:20.220644,Home,51.2,Credit Card,0
+348,21,Male,North,2024-02-20 12:28:20.220644,Beauty,116.33,Credit Card,0
+349,63,Female,East,2024-04-26 12:28:20.220644,Electronics,17.97,Debit Card,1
+350,31,Male,West,2024-12-01 12:28:20.220644,Sports,31.63,Debit Card,1
+351,30,Male,South,2025-03-01 12:28:20.220644,Beauty,172.85,Credit Card,1
+352,44,Female,East,2025-03-16 12:28:20.220644,Beauty,52.17,Credit Card,0
+353,23,Male,West,2025-10-08 12:28:20.220644,Home,24.2,Credit Card,0
+354,34,Male,South,2026-01-11 12:28:20.220644,Beauty,98.84,Credit Card,1
+355,53,Male,West,2024-03-13 12:28:20.220644,Electronics,54.75,Credit Card,0
+356,57,Female,East,2025-09-15 12:28:20.220644,Home,93.44,Credit Card,0
+357,66,Male,East,2024-11-14 12:28:20.220644,Beauty,41.91,Credit Card,0
+358,52,Male,South,2024-12-31 12:28:20.220644,Clothing,277.79,Credit Card,0
+359,34,Female,East,2025-02-08 12:28:20.220644,Electronics,66.87,Credit Card,0
+360,58,Female,North,2024-08-03 12:28:20.220644,Clothing,100.49,PayPal,0
+361,19,Male,West,2024-09-26 12:28:20.220644,Beauty,82.14,Credit Card,1
+362,30,Female,South,2025-05-12 12:28:20.220644,Electronics,15.85,Credit Card,1
+363,69,Male,West,2025-06-12 12:28:20.220644,Electronics,34.07,Credit Card,0
+364,19,Other,South,2025-04-02 12:28:20.220644,Electronics,15.41,Credit Card,1
+365,69,Male,North,2025-12-21 12:28:20.220644,Beauty,19.2,Credit Card,0
+366,45,Male,East,2024-07-10 12:28:20.220644,Electronics,237.62,Credit Card,0
+367,60,Male,North,2024-12-19 12:28:20.220644,Beauty,102.31,Debit Card,1
+368,43,Male,West,2024-05-24 12:28:20.220644,Clothing,196.72,Debit Card,0
+369,39,Female,West,2025-03-30 12:28:20.220644,Beauty,95.93,Debit Card,0
+370,64,Male,West,2024-09-21 12:28:20.220644,Sports,174.26,PayPal,1
+371,60,Male,North,2024-10-03 12:28:20.220644,Electronics,37.0,Credit Card,1
+372,20,Female,East,2024-04-14 12:28:20.220644,Clothing,49.67,PayPal,0
+373,52,Female,East,2025-11-04 12:28:20.220644,Beauty,113.46,Credit Card,0
+374,29,Male,West,2025-02-26 12:28:20.220644,Clothing,33.76,Debit Card,0
+375,41,Male,North,2024-05-29 12:28:20.220644,Electronics,245.08,Credit Card,0
+376,22,Male,South,2024-08-07 12:28:20.220644,Beauty,74.74,PayPal,0
+377,37,Male,East,2025-10-10 12:28:20.220644,Sports,192.79,Debit Card,0
+378,56,Male,North,2025-08-07 12:28:20.220644,Home,42.47,Credit Card,1
+379,56,Female,South,2024-11-14 12:28:20.220644,Clothing,63.64,Debit Card,0
+380,30,Female,South,2024-10-04 12:28:20.220644,Clothing,45.87,Credit Card,0
+381,58,Male,West,2025-10-19 12:28:20.220644,Electronics,218.25,PayPal,0
+382,62,Male,West,2024-11-25 12:28:20.220644,Beauty,19.03,Debit Card,0
+383,29,Male,East,2024-05-04 12:28:20.220644,Beauty,186.04,Credit Card,1
+384,30,Male,South,2025-01-24 12:28:20.220644,Sports,133.76,Credit Card,0
+385,27,Male,South,2025-04-10 12:28:20.220644,Electronics,21.03,Credit Card,1
+386,50,Female,West,2024-07-21 12:28:20.220644,Home,131.44,Debit Card,1
+387,57,Female,West,2025-03-27 12:28:20.220644,Electronics,62.16,Credit Card,1
+388,33,Other,West,2024-07-17 12:28:20.220644,Clothing,46.51,Debit Card,0
+389,62,Female,West,2025-01-13 12:28:20.220644,Beauty,57.83,Bank Transfer,1
+390,52,Male,South,2024-04-10 12:28:20.220644,Electronics,26.64,Credit Card,0
+391,20,Female,West,2024-07-17 12:28:20.220644,Home,4.92,Bank Transfer,0
+392,22,Male,South,2024-05-23 12:28:20.220644,Beauty,278.81,Debit Card,0
+393,43,Male,South,2025-10-08 12:28:20.220644,Sports,96.77,Credit Card,0
+394,28,Female,East,2025-07-25 12:28:20.220644,Beauty,291.99,Credit Card,0
+395,24,Male,North,2025-01-22 12:28:20.220644,Beauty,32.49,Debit Card,0
+396,27,Female,North,2025-12-03 12:28:20.220644,Home,71.7,Credit Card,0
+397,59,Male,South,2025-12-04 12:28:20.220644,Electronics,20.55,Credit Card,1
+398,69,Female,South,2024-04-20 12:28:20.220644,Clothing,127.36,Credit Card,0
+399,51,Female,West,2024-02-15 12:28:20.220644,Home,83.23,PayPal,0
+400,20,Female,North,2025-08-16 12:28:20.220644,Beauty,53.9,Debit Card,1
+401,25,Female,North,2024-07-01 12:28:20.220644,Home,18.68,Debit Card,0
+402,48,Male,North,2025-01-12 12:28:20.220644,Clothing,92.96,Credit Card,1
+403,28,Female,North,2024-03-11 12:28:20.220644,Clothing,203.86,PayPal,1
+404,62,Other,North,2024-07-11 12:28:20.220644,Electronics,114.88,Bank Transfer,0
+405,24,Female,East,2024-01-31 12:28:20.220644,Beauty,198.14,Credit Card,0
+406,62,Female,South,2024-08-25 12:28:20.220644,Home,245.17,Credit Card,1
+407,19,Female,West,2025-04-29 12:28:20.220644,Beauty,87.55,PayPal,1
+408,23,Female,West,2024-04-16 12:28:20.220644,Clothing,48.52,PayPal,1
+409,58,Female,East,2024-11-04 12:28:20.220644,Clothing,132.72,Debit Card,0
+410,49,Female,North,2025-08-27 12:28:20.220644,Beauty,130.02,PayPal,1
+411,37,Female,North,2024-07-05 12:28:20.220644,Beauty,108.45,Debit Card,0
+412,51,Male,West,2024-08-21 12:28:20.220644,Home,142.56,Credit Card,0
+413,67,Male,East,2025-09-18 12:28:20.220644,Home,49.9,Debit Card,0
+414,33,Male,West,2024-03-06 12:28:20.220644,Clothing,46.97,Debit Card,0
+415,42,Male,West,2025-12-07 12:28:20.220644,Beauty,177.65,Bank Transfer,1
+416,29,Male,West,2025-02-18 12:28:20.220644,Beauty,61.44,Credit Card,1
+417,24,Female,West,2024-11-25 12:28:20.220644,Beauty,119.11,Debit Card,1
+418,56,Male,East,2024-12-26 12:28:20.220644,Home,91.05,PayPal,0
+419,34,Male,South,2025-03-30 12:28:20.220644,Home,75.06,Credit Card,0
+420,62,Female,West,2025-08-14 12:28:20.220644,Home,136.72,Credit Card,1
+421,28,Other,East,2025-07-05 12:28:20.220644,Beauty,112.28,PayPal,0
+422,23,Female,North,2024-10-20 12:28:20.220644,Home,65.06,Credit Card,1
+423,40,Other,East,2025-01-06 12:28:20.220644,Home,172.68,Debit Card,1
+424,44,Female,East,2025-10-04 12:28:20.220644,Electronics,89.95,PayPal,1
+425,63,Male,West,2025-10-19 12:28:20.220644,Sports,119.83,Credit Card,0
+426,23,Female,East,2025-10-14 12:28:20.220644,Beauty,30.19,Bank Transfer,1
+427,55,Female,South,2024-01-20 12:28:20.220644,Clothing,28.28,Debit Card,1
+428,19,Male,West,2025-07-28 12:28:20.220644,Home,19.62,Credit Card,0
+429,39,Male,West,2025-05-17 12:28:20.220644,Electronics,81.55,Credit Card,1
+430,37,Female,East,2024-12-18 12:28:20.220644,Electronics,31.48,Bank Transfer,0
+431,42,Male,South,2025-04-28 12:28:20.220644,Clothing,77.52,Credit Card,0
+432,32,Female,South,2025-11-29 12:28:20.220644,Beauty,218.85,Credit Card,1
+433,66,Male,East,2025-12-07 12:28:20.220644,Sports,39.52,Credit Card,1
+434,46,Female,North,2025-12-16 12:28:20.220644,Home,92.45,Credit Card,1
+435,25,Female,South,2024-09-17 12:28:20.220644,Home,83.71,Credit Card,0
+436,54,Male,East,2024-09-03 12:28:20.220644,Clothing,17.27,Bank Transfer,0
+437,66,Male,South,2024-04-04 12:28:20.220644,Electronics,37.69,PayPal,1
+438,69,Female,South,2024-04-14 12:28:20.220644,Electronics,22.54,Credit Card,0
+439,50,Female,North,2025-02-09 12:28:20.220644,Beauty,72.34,Credit Card,0
+440,39,Female,South,2024-10-06 12:28:20.220644,Sports,293.62,Debit Card,0
+441,67,Female,West,2025-03-04 12:28:20.220644,Home,47.1,Credit Card,0
+442,64,Female,South,2025-10-05 12:28:20.220644,Beauty,57.71,PayPal,1
+443,22,Male,North,2025-08-17 12:28:20.220644,Sports,28.46,PayPal,1
+444,56,Male,East,2025-06-24 12:28:20.220644,Electronics,67.77,PayPal,0
+445,35,Male,West,2024-09-21 12:28:20.220644,Beauty,291.87,Credit Card,0
+446,55,Female,East,2024-05-13 12:28:20.220644,Home,113.51,Credit Card,0
+447,54,Male,North,2024-01-22 12:28:20.220644,Home,65.11,Credit Card,0
+448,47,Male,South,2024-11-23 12:28:20.220644,Clothing,252.82,Credit Card,0
+449,68,Female,West,2024-10-11 12:28:20.220644,Beauty,183.25,Credit Card,0
+450,48,Female,North,2024-11-13 12:28:20.220644,Beauty,32.97,PayPal,1
+451,27,Male,East,2024-08-09 12:28:20.220644,Electronics,53.19,PayPal,1
+452,32,Male,South,2026-01-11 12:28:20.220644,Home,21.36,Bank Transfer,0
+453,59,Male,North,2025-04-20 12:28:20.220644,Electronics,105.1,PayPal,1
+454,65,Male,West,2025-12-24 12:28:20.220644,Sports,123.89,Credit Card,1
+455,61,Female,East,2026-01-09 12:28:20.220644,Home,69.58,Debit Card,0
+456,35,Male,East,2025-12-29 12:28:20.220644,Beauty,141.13,Credit Card,0
+457,40,Female,North,2025-03-03 12:28:20.220644,Clothing,105.45,Credit Card,0
+458,50,Female,North,2024-08-15 12:28:20.220644,Electronics,198.08,Debit Card,0
+459,33,Male,East,2024-04-01 12:28:20.220644,Electronics,112.32,Debit Card,1
+460,55,Other,East,2025-05-06 12:28:20.220644,Clothing,69.43,Debit Card,1
+461,52,Male,North,2025-07-12 12:28:20.220644,Electronics,83.26,Credit Card,0
+462,51,Male,North,2024-01-30 12:28:20.220644,Home,79.02,Credit Card,1
+463,45,Male,North,2024-06-25 12:28:20.220644,Electronics,64.66,Credit Card,1
+464,19,Male,West,2025-06-20 12:28:20.220644,Home,82.22,Credit Card,0
+465,47,Male,West,2024-08-01 12:28:20.220644,Clothing,46.46,Credit Card,0
+466,30,Male,West,2024-12-23 12:28:20.220644,Home,15.92,Debit Card,1
+467,58,Female,North,2025-01-12 12:28:20.220644,Beauty,41.78,PayPal,1
+468,33,Female,West,2025-04-04 12:28:20.220644,Home,113.96,Credit Card,1
+469,22,Female,North,2025-06-08 12:28:20.220644,Sports,96.27,Debit Card,1
+470,45,Male,East,2024-11-26 12:28:20.220644,Electronics,65.95,Credit Card,0
+471,56,Female,West,2024-08-16 12:28:20.220644,Clothing,27.42,Bank Transfer,0
+472,62,Female,South,2024-02-15 12:28:20.220644,Clothing,12.05,Credit Card,0
+473,37,Female,South,2024-10-04 12:28:20.220644,Clothing,100.61,PayPal,0
+474,41,Female,North,2025-10-13 12:28:20.220644,Beauty,107.5,PayPal,1
+475,44,Female,North,2026-01-05 12:28:20.220644,Home,81.46,PayPal,1
+476,47,Male,East,2024-04-01 12:28:20.220644,Home,135.51,Credit Card,1
+477,62,Female,East,2025-11-19 12:28:20.220644,Clothing,64.71,Debit Card,0
+478,44,Male,West,2025-02-28 12:28:20.220644,Sports,94.72,Credit Card,0
+479,43,Other,East,2024-09-20 12:28:20.220644,Sports,23.96,Credit Card,0
+480,24,Male,East,2024-01-24 12:28:20.220644,Clothing,121.97,Credit Card,0
+481,59,Male,North,2025-02-16 12:28:20.220644,Electronics,147.49,PayPal,1
+482,64,Male,North,2026-01-05 12:28:20.220644,Beauty,49.8,PayPal,0
+483,55,Female,West,2024-10-20 12:28:20.220644,Sports,245.03,Credit Card,1
+484,22,Male,North,2024-05-03 12:28:20.220644,Clothing,74.47,Debit Card,1
+485,40,Male,East,2026-01-04 12:28:20.220644,Clothing,45.47,Bank Transfer,0
+486,45,Female,North,2025-01-24 12:28:20.220644,Sports,64.13,Credit Card,0
+487,51,Female,East,2024-10-06 12:28:20.220644,Beauty,95.0,Credit Card,1
+488,32,Male,East,2024-11-05 12:28:20.220644,Clothing,256.15,Credit Card,0
+489,49,Male,North,2024-11-24 12:28:20.220644,Home,53.18,PayPal,1
+490,43,Female,South,2025-08-04 12:28:20.220644,Sports,71.15,Credit Card,0
+491,65,Female,East,2025-06-04 12:28:20.220644,Beauty,85.95,PayPal,0
+492,48,Female,South,2025-07-11 12:28:20.220644,Beauty,23.32,Credit Card,0
+493,36,Female,North,2025-01-11 12:28:20.220644,Beauty,52.67,Credit Card,0
+494,26,Male,East,2025-07-12 12:28:20.220644,Electronics,63.69,Credit Card,1
+495,46,Female,North,2024-10-09 12:28:20.220644,Beauty,57.63,Credit Card,0
+496,68,Female,West,2025-04-30 12:28:20.220644,Clothing,50.71,Credit Card,1
+497,56,Female,East,2025-07-02 12:28:20.220644,Sports,111.46,Credit Card,1
+498,21,Male,North,2024-09-02 12:28:20.220644,Clothing,72.33,PayPal,1
+499,20,Female,East,2024-03-11 12:28:20.220644,Sports,50.63,Credit Card,0
+500,46,Female,East,2024-09-19 12:28:20.220644,Clothing,56.76,PayPal,1
+501,69,Male,South,2024-04-07 12:28:20.220644,Home,101.35,Bank Transfer,0
+502,28,Female,South,2025-02-05 12:28:20.220644,Electronics,51.08,PayPal,0
+503,50,Female,South,2024-07-10 12:28:20.220644,Beauty,111.93,Bank Transfer,1
+504,55,Female,South,2025-12-31 12:28:20.220644,Beauty,115.36,Debit Card,0
+505,28,Female,North,2024-06-09 12:28:20.220644,Beauty,74.34,Credit Card,1
+506,44,Female,South,2025-08-17 12:28:20.220644,Home,74.62,PayPal,0
+507,50,Female,South,2024-05-12 12:28:20.220644,Electronics,109.42,PayPal,1
+508,38,Male,East,2025-09-08 12:28:20.220644,Sports,136.43,PayPal,0
+509,56,Male,East,2024-09-24 12:28:20.220644,Beauty,57.17,Debit Card,1
+510,48,Male,East,2024-11-16 12:28:20.220644,Beauty,110.94,Debit Card,1
+511,55,Female,West,2024-03-11 12:28:20.220644,Beauty,84.61,Credit Card,0
+512,63,Female,West,2024-03-21 12:28:20.220644,Beauty,32.09,Debit Card,0
+513,19,Female,East,2025-04-02 12:28:20.220644,Clothing,104.92,Credit Card,1
+514,44,Female,East,2025-02-03 12:28:20.220644,Beauty,222.77,Credit Card,0
+515,53,Female,South,2024-04-07 12:28:20.220644,Home,77.35,Debit Card,0
+516,28,Other,West,2024-08-26 12:28:20.220644,Sports,231.62,Credit Card,0
+517,64,Male,North,2025-08-27 12:28:20.220644,Beauty,19.21,Credit Card,1
+518,35,Female,South,2025-09-29 12:28:20.220644,Electronics,98.97,PayPal,1
+519,18,Male,East,2024-07-14 12:28:20.220644,Clothing,49.62,PayPal,1
+520,52,Female,North,2024-11-29 12:28:20.220644,Electronics,87.42,Debit Card,1
+521,52,Female,North,2024-11-25 12:28:20.220644,Electronics,24.21,Debit Card,1
+522,48,Female,East,2025-07-31 12:28:20.220644,Home,183.56,Bank Transfer,0
+523,45,Male,East,2025-02-14 12:28:20.220644,Sports,36.65,Credit Card,0
+524,56,Male,East,2025-12-21 12:28:20.220644,Electronics,49.62,Debit Card,0
+525,18,Female,West,2024-10-31 12:28:20.220644,Home,83.21,Credit Card,1
+526,42,Female,North,2024-10-31 12:28:20.220644,Sports,39.71,Credit Card,1
+527,60,Male,North,2025-05-11 12:28:20.220644,Beauty,38.56,Debit Card,0
+528,55,Female,East,2025-04-03 12:28:20.220644,Home,83.3,Debit Card,1
+529,37,Male,South,2025-12-04 12:28:20.220644,Beauty,86.78,Credit Card,0
+530,20,Female,East,2025-02-27 12:28:20.220644,Home,64.09,Credit Card,1
+531,68,Female,North,2025-06-03 12:28:20.220644,Electronics,124.01,Debit Card,0
+532,19,Female,South,2024-09-12 12:28:20.220644,Electronics,70.56,Debit Card,0
+533,35,Other,East,2025-03-07 12:28:20.220644,Electronics,26.76,Debit Card,1
+534,61,Female,East,2024-06-14 12:28:20.220644,Clothing,9.53,Credit Card,1
+535,27,Female,East,2025-03-11 12:28:20.220644,Sports,71.12,Debit Card,0
+536,22,Male,South,2024-10-11 12:28:20.220644,Beauty,24.83,Credit Card,0
+537,26,Male,South,2025-10-20 12:28:20.220644,Clothing,131.58,Credit Card,1
+538,19,Male,North,2025-06-15 12:28:20.220644,Home,1.74,Debit Card,1
+539,51,Female,North,2024-05-19 12:28:20.220644,Clothing,110.49,Debit Card,1
+540,55,Male,South,2025-01-19 12:28:20.220644,Beauty,32.47,Credit Card,0
+541,48,Male,South,2025-08-02 12:28:20.220644,Beauty,127.52,Credit Card,1
+542,27,Male,East,2025-10-11 12:28:20.220644,Electronics,30.94,Debit Card,1
+543,67,Male,South,2024-06-19 12:28:20.220644,Electronics,257.54,Credit Card,1
+544,29,Male,East,2025-08-05 12:28:20.220644,Home,249.72,Credit Card,1
+545,53,Female,West,2025-08-04 12:28:20.220644,Home,169.23,Credit Card,0
+546,38,Female,South,2025-10-25 12:28:20.220644,Clothing,109.46,Credit Card,0
+547,66,Female,North,2024-07-06 12:28:20.220644,Home,11.64,Credit Card,1
+548,64,Female,North,2025-09-23 12:28:20.220644,Home,24.43,PayPal,0
+549,23,Male,East,2024-08-10 12:28:20.220644,Clothing,43.03,Debit Card,1
+550,65,Female,South,2025-04-03 12:28:20.220644,Clothing,33.24,Debit Card,0
+551,66,Male,North,2025-08-20 12:28:20.220644,Clothing,112.1,Debit Card,0
+552,20,Male,East,2024-06-27 12:28:20.220644,Sports,39.52,Debit Card,0
+553,27,Female,North,2025-04-16 12:28:20.220644,Sports,111.02,PayPal,1
+554,22,Male,East,2025-01-03 12:28:20.220644,Sports,121.62,Debit Card,0
+555,63,Female,East,2024-11-11 12:28:20.220644,Beauty,172.34,Credit Card,1
+556,43,Male,East,2024-09-01 12:28:20.220644,Home,211.18,Debit Card,0
+557,38,Female,North,2024-12-04 12:28:20.220644,Beauty,99.24,Credit Card,1
+558,62,Female,West,2024-07-12 12:28:20.220644,Sports,208.01,Debit Card,0
+559,43,Male,East,2025-10-07 12:28:20.220644,Electronics,54.23,Debit Card,0
+560,55,Female,North,2024-12-11 12:28:20.220644,Home,90.51,PayPal,1
+561,61,Male,North,2025-12-27 12:28:20.220644,Beauty,213.39,Debit Card,0
+562,43,Female,South,2024-02-10 12:28:20.220644,Beauty,111.21,Credit Card,0
+563,25,Male,West,2025-12-26 12:28:20.220644,Clothing,41.13,Credit Card,1
+564,22,Female,West,2024-04-14 12:28:20.220644,Home,79.58,Credit Card,0
+565,32,Female,East,2025-11-30 12:28:20.220644,Beauty,269.06,Credit Card,0
+566,33,Male,West,2024-12-07 12:28:20.220644,Home,13.37,Credit Card,0
+567,18,Female,North,2026-01-04 12:28:20.220644,Beauty,58.99,Credit Card,0
+568,33,Female,North,2024-07-14 12:28:20.220644,Clothing,442.97,Credit Card,0
+569,54,Female,West,2024-04-16 12:28:20.220644,Sports,124.01,Bank Transfer,0
+570,20,Female,West,2025-10-22 12:28:20.220644,Home,107.28,Credit Card,1
+571,69,Male,South,2024-12-30 12:28:20.220644,Home,43.46,Credit Card,0
+572,64,Female,West,2024-10-03 12:28:20.220644,Electronics,51.77,Credit Card,1
+573,48,Male,West,2025-10-20 12:28:20.220644,Electronics,50.98,Debit Card,0
+574,30,Male,West,2025-10-29 12:28:20.220644,Home,70.21,Credit Card,0
+575,33,Other,West,2024-01-31 12:28:20.220644,Clothing,152.3,Debit Card,0
+576,60,Female,West,2025-10-19 12:28:20.220644,Home,153.96,Credit Card,1
+577,38,Male,North,2025-09-29 12:28:20.220644,Electronics,117.78,Debit Card,1
+578,19,Male,West,2025-05-25 12:28:20.220644,Beauty,77.21,PayPal,1
+579,44,Female,North,2024-05-30 12:28:20.220644,Beauty,7.72,Credit Card,0
+580,55,Male,West,2025-10-10 12:28:20.220644,Electronics,192.68,Credit Card,1
+581,43,Male,South,2025-12-28 12:28:20.220644,Home,138.78,Credit Card,1
+582,55,Male,East,2025-08-07 12:28:20.220644,Beauty,194.92,PayPal,0
+583,63,Female,South,2025-06-20 12:28:20.220644,Home,44.45,Credit Card,0
+584,42,Female,North,2024-09-23 12:28:20.220644,Clothing,52.73,Debit Card,0
+585,28,Male,South,2024-04-06 12:28:20.220644,Beauty,424.37,PayPal,1
+586,25,Female,West,2025-04-14 12:28:20.220644,Electronics,15.95,Debit Card,0
+587,25,Male,West,2025-06-27 12:28:20.220644,Clothing,128.08,Credit Card,1
+588,50,Female,South,2025-07-27 12:28:20.220644,Electronics,172.91,Credit Card,0
+589,24,Other,West,2025-11-18 12:28:20.220644,Home,10.8,Debit Card,0
+590,55,Female,West,2024-04-13 12:28:20.220644,Electronics,80.14,PayPal,0
+591,38,Female,East,2025-09-03 12:28:20.220644,Sports,67.37,Bank Transfer,0
+592,25,Female,North,2024-03-21 12:28:20.220644,Clothing,25.09,PayPal,0
+593,68,Female,West,2024-02-18 12:28:20.220644,Electronics,135.4,PayPal,0
+594,38,Female,East,2024-05-31 12:28:20.220644,Home,21.82,Debit Card,1
+595,37,Female,West,2025-11-22 12:28:20.220644,Clothing,98.83,PayPal,0
+596,25,Male,West,2025-07-31 12:28:20.220644,Home,47.45,Credit Card,0
+597,63,Male,West,2024-07-08 12:28:20.220644,Clothing,3.13,Debit Card,0
+598,48,Female,East,2025-09-21 12:28:20.220644,Electronics,51.61,Credit Card,0
+599,67,Female,South,2024-05-28 12:28:20.220644,Clothing,50.28,Credit Card,0
+600,46,Male,South,2024-07-20 12:28:20.220644,Clothing,135.23,PayPal,0
+601,65,Male,South,2025-10-13 12:28:20.220644,Electronics,136.82,Credit Card,0
+602,26,Female,North,2024-12-19 12:28:20.220644,Beauty,91.76,Credit Card,0
+603,32,Female,East,2025-07-24 12:28:20.220644,Home,49.66,Credit Card,1
+604,47,Female,East,2024-01-17 12:28:20.220644,Home,90.79,PayPal,0
+605,43,Female,West,2024-09-25 12:28:20.220644,Home,80.62,Debit Card,0
+606,27,Female,North,2025-11-04 12:28:20.220644,Home,56.07,Debit Card,0
+607,46,Female,East,2024-09-11 12:28:20.220644,Sports,171.38,Credit Card,0
+608,33,Female,North,2026-01-01 12:28:20.220644,Electronics,24.99,Credit Card,1
+609,53,Female,North,2025-03-02 12:28:20.220644,Electronics,41.55,Credit Card,0
+610,37,Female,North,2025-09-30 12:28:20.220644,Electronics,185.04,Credit Card,0
+611,62,Male,East,2025-12-19 12:28:20.220644,Electronics,63.86,PayPal,1
+612,54,Male,North,2024-12-20 12:28:20.220644,Electronics,115.99,Credit Card,0
+613,39,Other,East,2025-11-24 12:28:20.220644,Beauty,102.56,Credit Card,1
+614,24,Male,North,2025-01-25 12:28:20.220644,Home,101.4,Credit Card,1
+615,40,Male,West,2025-08-28 12:28:20.220644,Sports,55.97,Credit Card,0
+616,58,Female,West,2025-11-08 12:28:20.220644,Electronics,29.13,Credit Card,0
+617,57,Female,West,2025-10-26 12:28:20.220644,Clothing,65.61,Debit Card,0
+618,46,Male,West,2024-06-06 12:28:20.220644,Sports,182.25,Debit Card,0
+619,33,Male,West,2024-11-30 12:28:20.220644,Beauty,32.82,PayPal,0
+620,55,Male,West,2024-05-13 12:28:20.220644,Home,13.03,Debit Card,0
+621,45,Female,East,2024-09-20 12:28:20.220644,Home,123.83,Credit Card,1
+622,65,Male,North,2024-11-18 12:28:20.220644,Beauty,17.52,Debit Card,0
+623,55,Male,South,2025-09-04 12:28:20.220644,Home,116.28,Debit Card,1
+624,48,Male,North,2025-05-01 12:28:20.220644,Electronics,36.82,Credit Card,1
+625,31,Female,East,2025-08-04 12:28:20.220644,Beauty,123.0,Debit Card,1
+626,50,Male,East,2025-05-18 12:28:20.220644,Home,147.29,PayPal,0
+627,26,Male,West,2025-08-09 12:28:20.220644,Electronics,147.94,Credit Card,0
+628,44,Female,West,2024-12-24 12:28:20.220644,Home,144.42,Debit Card,1
+629,41,Other,South,2025-05-13 12:28:20.220644,Clothing,94.4,PayPal,1
+630,30,Female,East,2025-04-29 12:28:20.220644,Sports,99.92,Debit Card,1
+631,43,Other,West,2025-01-28 12:28:20.220644,Electronics,19.22,Debit Card,1
+632,46,Female,South,2024-10-18 12:28:20.220644,Sports,71.23,Credit Card,0
+633,68,Male,West,2024-03-24 12:28:20.220644,Home,64.85,Credit Card,0
+634,66,Female,North,2025-06-16 12:28:20.220644,Clothing,179.69,Debit Card,0
+635,60,Male,East,2025-01-12 12:28:20.220644,Electronics,76.7,Debit Card,1
+636,45,Female,South,2024-04-15 12:28:20.220644,Beauty,52.95,PayPal,0
+637,45,Male,West,2025-01-19 12:28:20.220644,Sports,97.67,Credit Card,1
+638,25,Male,East,2024-12-16 12:28:20.220644,Clothing,75.77,Credit Card,1
+639,40,Female,North,2025-03-24 12:28:20.220644,Electronics,189.09,Credit Card,1
+640,46,Male,North,2024-12-13 12:28:20.220644,Home,22.08,Credit Card,0
+641,22,Female,South,2025-11-06 12:28:20.220644,Beauty,80.27,Credit Card,0
+642,59,Male,West,2025-05-18 12:28:20.220644,Electronics,144.07,Credit Card,1
+643,24,Male,West,2024-02-21 12:28:20.220644,Home,22.15,Credit Card,0
+644,59,Female,South,2025-01-05 12:28:20.220644,Home,52.18,Credit Card,0
+645,53,Female,South,2025-08-08 12:28:20.220644,Clothing,62.36,Credit Card,0
+646,58,Female,East,2024-09-22 12:28:20.220644,Home,77.01,Bank Transfer,0
+647,44,Male,East,2025-08-15 12:28:20.220644,Electronics,9.89,PayPal,0
+648,63,Female,West,2025-02-13 12:28:20.220644,Beauty,142.89,Credit Card,1
+649,19,Female,South,2024-06-30 12:28:20.220644,Home,148.06,PayPal,1
+650,42,Female,East,2025-12-02 12:28:20.220644,Home,101.5,Debit Card,1
+651,26,Male,East,2025-12-13 12:28:20.220644,Clothing,33.52,PayPal,0
+652,44,Female,West,2025-06-06 12:28:20.220644,Clothing,45.74,Credit Card,1
+653,18,Female,West,2024-09-28 12:28:20.220644,Beauty,22.77,Credit Card,1
+654,40,Female,West,2025-08-18 12:28:20.220644,Home,159.71,PayPal,1
+655,27,Female,East,2025-04-15 12:28:20.220644,Home,35.12,Credit Card,1
+656,59,Female,South,2025-06-24 12:28:20.220644,Home,33.78,PayPal,1
+657,69,Male,West,2024-12-18 12:28:20.220644,Clothing,44.63,PayPal,0
+658,42,Male,South,2024-03-09 12:28:20.220644,Clothing,210.58,Bank Transfer,1
+659,20,Female,South,2024-08-17 12:28:20.220644,Electronics,67.23,Credit Card,0
+660,23,Male,South,2025-09-22 12:28:20.220644,Electronics,40.81,Credit Card,0
+661,23,Male,West,2025-11-27 12:28:20.220644,Beauty,137.62,Credit Card,1
+662,19,Male,North,2025-04-20 12:28:20.220644,Electronics,105.67,Bank Transfer,0
+663,35,Male,South,2024-09-15 12:28:20.220644,Electronics,229.45,Credit Card,0
+664,40,Female,South,2026-01-11 12:28:20.220644,Beauty,72.73,Debit Card,1
+665,19,Female,North,2025-01-19 12:28:20.220644,Electronics,176.7,Credit Card,1
+666,29,Female,North,2025-03-04 12:28:20.220644,Home,152.15,Credit Card,0
+667,39,Male,West,2024-02-12 12:28:20.220644,Clothing,95.88,Credit Card,1
+668,54,Female,West,2025-01-14 12:28:20.220644,Electronics,20.15,Debit Card,0
+669,37,Female,South,2025-07-24 12:28:20.220644,Clothing,75.03,PayPal,0
+670,56,Other,West,2025-10-19 12:28:20.220644,Electronics,59.49,Credit Card,0
+671,41,Female,West,2024-04-29 12:28:20.220644,Beauty,256.98,PayPal,0
+672,65,Male,South,2025-08-18 12:28:20.220644,Home,27.83,Debit Card,0
+673,37,Female,East,2025-03-05 12:28:20.220644,Electronics,237.62,Debit Card,0
+674,18,Other,West,2025-09-23 12:28:20.220644,Electronics,26.6,Debit Card,1
+675,18,Female,South,2025-02-13 12:28:20.220644,Clothing,66.17,Credit Card,1
+676,34,Female,North,2024-10-10 12:28:20.220644,Electronics,214.5,Credit Card,1
+677,18,Male,West,2025-11-25 12:28:20.220644,Clothing,24.65,PayPal,1
+678,69,Female,East,2024-05-07 12:28:20.220644,Home,205.19,Credit Card,0
+679,62,Female,North,2025-08-20 12:28:20.220644,Beauty,203.02,Credit Card,1
+680,47,Male,East,2024-09-24 12:28:20.220644,Clothing,169.36,Credit Card,1
+681,58,Female,East,2024-04-02 12:28:20.220644,Beauty,68.08,Debit Card,0
+682,64,Male,West,2024-05-19 12:28:20.220644,Sports,73.57,Credit Card,0
+683,20,Male,East,2024-09-03 12:28:20.220644,Electronics,127.46,Debit Card,1
+684,63,Male,South,2025-07-18 12:28:20.220644,Beauty,27.38,Credit Card,1
+685,28,Male,East,2024-07-11 12:28:20.220644,Beauty,213.14,Bank Transfer,1
+686,41,Female,East,2024-06-17 12:28:20.220644,Clothing,70.02,Credit Card,0
+687,39,Male,North,2025-04-10 12:28:20.220644,Sports,66.34,Debit Card,0
+688,61,Male,East,2025-08-05 12:28:20.220644,Clothing,71.17,Debit Card,0
+689,62,Female,West,2025-12-16 12:28:20.220644,Clothing,70.74,PayPal,1
+690,43,Female,North,2024-02-05 12:28:20.220644,Beauty,58.89,Credit Card,0
+691,30,Female,East,2025-04-29 12:28:20.220644,Clothing,111.21,PayPal,0
+692,18,Male,South,2025-02-15 12:28:20.220644,Clothing,130.88,Credit Card,0
+693,41,Female,South,2025-08-26 12:28:20.220644,Electronics,23.06,Credit Card,1
+694,27,Male,South,2024-05-25 12:28:20.220644,Beauty,92.4,Debit Card,0
+695,52,Female,South,2025-03-08 12:28:20.220644,Beauty,44.48,PayPal,0
+696,41,Male,West,2024-08-12 12:28:20.220644,Home,6.78,Debit Card,1
+697,45,Female,South,2025-05-08 12:28:20.220644,Sports,81.94,PayPal,1
+698,53,Male,East,2024-12-25 12:28:20.220644,Clothing,95.13,Credit Card,0
+699,33,Female,North,2024-06-26 12:28:20.220644,Electronics,50.11,PayPal,0
+700,57,Female,West,2024-12-25 12:28:20.220644,Beauty,49.18,Credit Card,1
+701,33,Male,East,2025-02-13 12:28:20.220644,Beauty,29.91,Debit Card,0
+702,34,Male,East,2025-08-17 12:28:20.220644,Electronics,21.12,Debit Card,1
+703,68,Female,South,2026-01-07 12:28:20.220644,Electronics,40.59,Credit Card,1
+704,32,Other,South,2025-03-22 12:28:20.220644,Beauty,32.52,Credit Card,0
+705,33,Female,North,2025-08-11 12:28:20.220644,Sports,50.03,Debit Card,1
+706,32,Male,West,2024-08-20 12:28:20.220644,Home,18.11,Credit Card,1
+707,51,Male,South,2024-11-15 12:28:20.220644,Clothing,32.58,Credit Card,0
+708,28,Female,East,2025-12-09 12:28:20.220644,Sports,99.76,Credit Card,0
+709,18,Female,East,2025-12-31 12:28:20.220644,Sports,123.28,Debit Card,1
+710,32,Female,South,2025-04-22 12:28:20.220644,Home,53.34,Credit Card,0
+711,43,Female,East,2024-04-20 12:28:20.220644,Beauty,72.15,Credit Card,1
+712,68,Female,East,2024-09-10 12:28:20.220644,Beauty,235.59,Credit Card,1
+713,21,Female,East,2024-06-18 12:28:20.220644,Sports,116.87,Credit Card,0
+714,60,Male,South,2025-09-13 12:28:20.220644,Beauty,348.3,PayPal,1
+715,22,Male,South,2025-07-19 12:28:20.220644,Home,100.03,PayPal,1
+716,52,Female,North,2025-10-24 12:28:20.220644,Home,16.75,Credit Card,0
+717,30,Male,West,2024-08-26 12:28:20.220644,Home,59.51,Debit Card,0
+718,27,Male,East,2025-03-10 12:28:20.220644,Home,54.37,Debit Card,1
+719,28,Male,South,2024-03-24 12:28:20.220644,Beauty,149.68,Debit Card,0
+720,35,Male,West,2024-09-11 12:28:20.220644,Sports,138.84,Debit Card,0
+721,51,Female,North,2025-06-25 12:28:20.220644,Home,75.78,Credit Card,1
+722,56,Female,West,2025-08-23 12:28:20.220644,Home,82.34,Credit Card,1
+723,58,Female,West,2024-02-26 12:28:20.220644,Clothing,35.66,Credit Card,1
+724,59,Male,West,2025-04-28 12:28:20.220644,Beauty,148.44,Credit Card,0
+725,67,Female,West,2025-01-17 12:28:20.220644,Home,55.61,Debit Card,0
+726,40,Male,South,2025-10-25 12:28:20.220644,Electronics,17.54,Credit Card,0
+727,24,Female,North,2025-12-01 12:28:20.220644,Home,40.59,Credit Card,1
+728,56,Female,East,2024-04-13 12:28:20.220644,Electronics,56.44,Credit Card,1
+729,20,Male,South,2024-02-03 12:28:20.220644,Electronics,87.18,PayPal,0
+730,29,Female,North,2024-07-02 12:28:20.220644,Beauty,287.19,PayPal,0
+731,24,Female,West,2025-09-07 12:28:20.220644,Clothing,120.49,Debit Card,1
+732,66,Male,South,2024-07-22 12:28:20.220644,Clothing,13.5,Credit Card,0
+733,43,Female,West,2024-03-29 12:28:20.220644,Electronics,165.29,Debit Card,0
+734,50,Male,West,2024-10-19 12:28:20.220644,Electronics,92.15,Credit Card,1
+735,54,Male,West,2025-01-10 12:28:20.220644,Beauty,80.02,Credit Card,0
+736,65,Female,West,2024-07-09 12:28:20.220644,Home,111.12,Credit Card,1
+737,32,Female,West,2024-09-06 12:28:20.220644,Sports,88.55,Debit Card,1
+738,19,Female,West,2024-05-26 12:28:20.220644,Clothing,10.41,Debit Card,0
+739,58,Male,East,2024-10-18 12:28:20.220644,Clothing,167.54,PayPal,0
+740,24,Male,South,2024-01-31 12:28:20.220644,Clothing,9.3,PayPal,0
+741,49,Female,West,2025-08-29 12:28:20.220644,Beauty,125.72,Credit Card,1
+742,21,Male,West,2025-01-17 12:28:20.220644,Home,48.51,Credit Card,0
+743,37,Female,South,2024-05-03 12:28:20.220644,Sports,31.95,Credit Card,1
+744,67,Female,North,2025-11-18 12:28:20.220644,Home,235.01,Debit Card,1
+745,53,Female,East,2025-11-22 12:28:20.220644,Home,97.13,Debit Card,1
+746,49,Female,North,2024-08-20 12:28:20.220644,Beauty,124.49,Bank Transfer,0
+747,45,Male,West,2024-11-11 12:28:20.220644,Sports,60.91,Debit Card,1
+748,30,Male,West,2025-12-15 12:28:20.220644,Clothing,146.05,PayPal,1
+749,18,Male,North,2024-12-02 12:28:20.220644,Electronics,43.02,Debit Card,0
+750,52,Female,East,2025-03-24 12:28:20.220644,Home,132.92,PayPal,0
+751,65,Female,North,2025-03-25 12:28:20.220644,Home,105.94,Debit Card,0
+752,47,Female,East,2024-06-30 12:28:20.220644,Sports,92.83,Debit Card,0
+753,53,Female,South,2025-01-21 12:28:20.220644,Home,52.61,Debit Card,1
+754,42,Other,East,2025-07-22 12:28:20.220644,Electronics,100.36,Debit Card,0
+755,33,Male,South,2025-01-27 12:28:20.220644,Sports,72.95,Credit Card,1
+756,36,Male,North,2024-01-26 12:28:20.220644,Beauty,57.9,Credit Card,1
+757,18,Male,South,2025-11-11 12:28:20.220644,Electronics,131.46,Credit Card,1
+758,22,Female,North,2025-05-26 12:28:20.220644,Sports,42.06,Credit Card,1
+759,68,Male,East,2025-10-19 12:28:20.220644,Clothing,15.13,Debit Card,0
+760,39,Female,North,2025-02-06 12:28:20.220644,Clothing,23.33,Credit Card,1
+761,41,Female,East,2025-07-14 12:28:20.220644,Sports,155.3,Credit Card,0
+762,60,Female,West,2025-07-30 12:28:20.220644,Home,82.26,Credit Card,0
+763,62,Female,West,2025-06-25 12:28:20.220644,Electronics,104.69,Debit Card,0
+764,69,Male,West,2025-05-18 12:28:20.220644,Clothing,64.93,Credit Card,1
+765,54,Male,West,2025-07-15 12:28:20.220644,Beauty,74.5,Credit Card,1
+766,53,Female,North,2025-12-11 12:28:20.220644,Electronics,153.28,Credit Card,0
+767,53,Male,North,2025-01-31 12:28:20.220644,Home,190.31,Credit Card,0
+768,21,Male,East,2024-07-26 12:28:20.220644,Beauty,120.65,PayPal,1
+769,53,Female,West,2024-11-07 12:28:20.220644,Clothing,110.64,Credit Card,0
+770,69,Male,West,2025-07-12 12:28:20.220644,Beauty,34.3,Debit Card,0
+771,35,Female,North,2026-01-08 12:28:20.220644,Sports,110.55,Debit Card,1
+772,67,Female,South,2025-09-05 12:28:20.220644,Home,52.91,Bank Transfer,0
+773,33,Male,North,2024-11-15 12:28:20.220644,Clothing,141.37,Credit Card,0
+774,58,Female,West,2024-09-20 12:28:20.220644,Clothing,85.85,Credit Card,0
+775,35,Male,East,2024-01-20 12:28:20.220644,Home,7.55,Credit Card,0
+776,39,Female,North,2024-08-07 12:28:20.220644,Sports,224.92,Credit Card,0
+777,19,Male,South,2024-05-22 12:28:20.220644,Clothing,125.36,Debit Card,0
+778,38,Female,East,2025-12-21 12:28:20.220644,Clothing,263.84,Credit Card,0
+779,53,Male,West,2025-10-27 12:28:20.220644,Clothing,88.81,Credit Card,0
+780,61,Male,North,2025-09-11 12:28:20.220644,Home,73.47,PayPal,1
+781,56,Male,West,2024-02-07 12:28:20.220644,Electronics,34.5,Debit Card,1
+782,64,Male,East,2025-09-26 12:28:20.220644,Beauty,40.58,Credit Card,0
+783,56,Male,West,2025-04-10 12:28:20.220644,Clothing,127.43,Credit Card,1
+784,46,Female,West,2025-10-08 12:28:20.220644,Beauty,105.25,Credit Card,0
+785,43,Female,North,2024-07-16 12:28:20.220644,Home,59.35,PayPal,0
+786,38,Male,North,2025-05-10 12:28:20.220644,Home,76.67,PayPal,0
+787,34,Male,East,2025-11-22 12:28:20.220644,Electronics,62.55,PayPal,0
+788,33,Female,North,2024-03-03 12:28:20.220644,Beauty,91.24,PayPal,1
+789,48,Female,West,2024-01-17 12:28:20.220644,Electronics,39.78,Debit Card,0
+790,68,Male,East,2025-08-23 12:28:20.220644,Electronics,111.26,Credit Card,0
+791,26,Female,West,2024-06-20 12:28:20.220644,Home,21.29,Credit Card,1
+792,48,Male,South,2024-08-07 12:28:20.220644,Beauty,59.5,Debit Card,0
+793,31,Female,South,2024-09-25 12:28:20.220644,Electronics,47.57,PayPal,0
+794,66,Male,East,2024-08-04 12:28:20.220644,Electronics,138.22,Credit Card,0
+795,54,Male,North,2024-01-23 12:28:20.220644,Beauty,112.05,Debit Card,0
+796,19,Female,East,2024-01-20 12:28:20.220644,Beauty,72.65,PayPal,0
+797,69,Male,West,2025-02-24 12:28:20.220644,Electronics,80.59,Credit Card,0
+798,65,Female,South,2024-02-13 12:28:20.220644,Home,152.54,PayPal,0
+799,63,Male,West,2025-07-05 12:28:20.220644,Clothing,192.17,Credit Card,0
+800,31,Female,North,2025-12-30 12:28:20.220644,Home,299.55,Credit Card,1
+801,50,Female,South,2025-02-02 12:28:20.220644,Sports,39.9,Credit Card,1
+802,52,Male,West,2024-08-27 12:28:20.220644,Electronics,61.33,Debit Card,1
+803,56,Female,West,2025-10-13 12:28:20.220644,Beauty,186.93,Debit Card,1
+804,64,Female,East,2025-05-01 12:28:20.220644,Home,67.11,Credit Card,1
+805,68,Female,West,2026-01-05 12:28:20.220644,Home,70.98,PayPal,1
+806,37,Female,East,2024-08-06 12:28:20.220644,Beauty,339.47,Debit Card,1
+807,19,Female,South,2024-11-25 12:28:20.220644,Sports,161.87,Debit Card,0
+808,68,Male,South,2025-07-22 12:28:20.220644,Electronics,47.21,Credit Card,1
+809,58,Male,West,2025-09-20 12:28:20.220644,Electronics,49.82,PayPal,0
+810,36,Female,North,2024-12-25 12:28:20.220644,Electronics,101.25,Credit Card,1
+811,54,Female,East,2024-09-02 12:28:20.220644,Sports,16.67,Credit Card,0
+812,35,Male,East,2025-12-13 12:28:20.220644,Beauty,139.62,Credit Card,1
+813,33,Female,East,2024-02-25 12:28:20.220644,Home,62.17,Credit Card,0
+814,21,Female,South,2024-06-02 12:28:20.220644,Electronics,16.18,PayPal,0
+815,29,Male,South,2025-10-21 12:28:20.220644,Sports,234.4,Credit Card,0
+816,46,Male,North,2024-07-06 12:28:20.220644,Beauty,246.46,Credit Card,0
+817,24,Female,East,2025-10-27 12:28:20.220644,Beauty,10.21,PayPal,0
+818,31,Male,East,2025-04-05 12:28:20.220644,Clothing,50.99,Debit Card,0
+819,29,Female,East,2025-08-26 12:28:20.220644,Electronics,90.4,PayPal,0
+820,52,Female,East,2024-04-03 12:28:20.220644,Home,109.24,Credit Card,0
+821,22,Male,North,2024-05-26 12:28:20.220644,Beauty,136.44,Debit Card,1
+822,34,Male,West,2025-12-31 12:28:20.220644,Electronics,66.0,Credit Card,0
+823,59,Male,East,2024-07-07 12:28:20.220644,Home,150.39,Bank Transfer,0
+824,49,Female,North,2025-01-29 12:28:20.220644,Clothing,300.85,Debit Card,1
+825,27,Female,South,2024-09-11 12:28:20.220644,Beauty,51.06,Debit Card,0
+826,60,Male,West,2025-08-01 12:28:20.220644,Home,211.54,Credit Card,0
+827,34,Female,West,2024-06-01 12:28:20.220644,Electronics,95.47,Credit Card,0
+828,22,Male,South,2025-04-13 12:28:20.220644,Home,13.05,Credit Card,1
+829,62,Male,East,2025-03-27 12:28:20.220644,Clothing,25.31,Credit Card,0
+830,59,Male,North,2024-03-08 12:28:20.220644,Electronics,48.5,Credit Card,0
+831,26,Male,North,2025-06-22 12:28:20.220644,Beauty,95.38,Debit Card,1
+832,66,Male,East,2025-12-09 12:28:20.220644,Electronics,29.83,Credit Card,0
+833,50,Male,East,2025-03-06 12:28:20.220644,Clothing,105.38,PayPal,1
+834,53,Female,West,2024-04-09 12:28:20.220644,Electronics,73.35,Credit Card,0
+835,53,Female,South,2025-09-12 12:28:20.220644,Electronics,163.82,Credit Card,0
+836,35,Male,North,2025-10-29 12:28:20.220644,Clothing,112.48,PayPal,1
+837,26,Male,South,2024-01-20 12:28:20.220644,Electronics,105.92,Debit Card,0
+838,46,Male,North,2025-05-03 12:28:20.220644,Home,62.98,Credit Card,1
+839,67,Male,North,2024-08-14 12:28:20.220644,Electronics,94.0,Credit Card,1
+840,31,Female,South,2025-11-27 12:28:20.220644,Beauty,81.4,Debit Card,0
+841,42,Male,South,2025-07-17 12:28:20.220644,Electronics,70.82,Credit Card,1
+842,32,Male,South,2025-05-23 12:28:20.220644,Electronics,35.56,Credit Card,0
+843,23,Male,East,2025-12-06 12:28:20.220644,Clothing,164.31,Debit Card,1
+844,59,Male,North,2025-05-29 12:28:20.220644,Sports,90.41,Credit Card,0
+845,46,Male,North,2025-12-11 12:28:20.220644,Home,132.3,Credit Card,0
+846,32,Female,East,2024-09-13 12:28:20.220644,Beauty,90.44,PayPal,0
+847,46,Male,North,2025-05-04 12:28:20.220644,Electronics,61.27,PayPal,0
+848,21,Male,East,2024-11-16 12:28:20.220644,Beauty,37.69,Credit Card,0
+849,35,Female,North,2024-08-30 12:28:20.220644,Electronics,76.72,Debit Card,1
+850,67,Female,South,2025-01-29 12:28:20.220644,Electronics,94.28,Credit Card,1
+851,66,Female,North,2024-06-15 12:28:20.220644,Home,8.93,PayPal,0
+852,61,Female,North,2024-07-05 12:28:20.220644,Clothing,156.51,Debit Card,0
+853,56,Male,East,2024-05-06 12:28:20.220644,Sports,71.51,Credit Card,1
+854,33,Female,West,2025-02-05 12:28:20.220644,Electronics,128.31,Credit Card,0
+855,28,Female,North,2024-11-18 12:28:20.220644,Sports,188.13,Credit Card,0
+856,31,Male,South,2024-11-07 12:28:20.220644,Home,55.82,Debit Card,0
+857,20,Female,East,2024-01-30 12:28:20.220644,Home,234.98,Debit Card,0
+858,68,Female,South,2024-01-24 12:28:20.220644,Electronics,44.06,Credit Card,0
+859,67,Male,West,2025-02-19 12:28:20.220644,Clothing,38.52,Credit Card,1
+860,59,Male,North,2025-12-16 12:28:20.220644,Sports,211.89,Credit Card,1
+861,55,Male,West,2024-08-31 12:28:20.220644,Clothing,119.13,Credit Card,0
+862,62,Male,South,2025-09-08 12:28:20.220644,Beauty,88.66,Credit Card,1
+863,59,Male,South,2026-01-11 12:28:20.220644,Sports,102.3,Debit Card,0
+864,35,Female,West,2024-10-16 12:28:20.220644,Clothing,61.75,Debit Card,0
+865,37,Female,East,2024-12-30 12:28:20.220644,Home,200.92,Bank Transfer,0
+866,65,Male,East,2024-11-10 12:28:20.220644,Beauty,23.4,PayPal,0
+867,42,Female,East,2025-07-06 12:28:20.220644,Electronics,50.44,Debit Card,0
+868,55,Male,East,2025-04-26 12:28:20.220644,Electronics,9.39,Debit Card,0
+869,30,Male,North,2024-03-29 12:28:20.220644,Home,11.52,Bank Transfer,0
+870,21,Female,East,2025-06-16 12:28:20.220644,Clothing,62.41,Credit Card,0
+871,31,Female,North,2024-02-05 12:28:20.220644,Beauty,250.85,Credit Card,1
+872,50,Female,West,2024-01-27 12:28:20.220644,Electronics,123.07,Credit Card,1
+873,45,Female,West,2025-11-18 12:28:20.220644,Sports,93.44,Debit Card,0
+874,69,Female,South,2025-06-20 12:28:20.220644,Electronics,235.12,PayPal,1
+875,54,Female,South,2024-12-24 12:28:20.220644,Home,9.42,Credit Card,1
+876,25,Male,North,2024-07-02 12:28:20.220644,Home,76.71,Debit Card,1
+877,61,Female,North,2024-12-04 12:28:20.220644,Electronics,169.52,Debit Card,0
+878,51,Other,West,2025-12-24 12:28:20.220644,Electronics,14.27,Credit Card,0
+879,61,Female,North,2025-05-11 12:28:20.220644,Beauty,89.42,Credit Card,1
+880,22,Male,South,2025-05-15 12:28:20.220644,Sports,208.41,Credit Card,0
+881,22,Female,West,2025-04-18 12:28:20.220644,Clothing,13.53,Credit Card,0
+882,48,Female,West,2025-01-24 12:28:20.220644,Clothing,132.79,PayPal,0
+883,62,Male,East,2025-08-22 12:28:20.220644,Clothing,81.07,PayPal,1
+884,26,Other,East,2024-06-24 12:28:20.220644,Electronics,76.02,PayPal,1
+885,59,Male,East,2025-01-18 12:28:20.220644,Beauty,43.12,Debit Card,0
+886,49,Male,West,2025-08-07 12:28:20.220644,Beauty,27.87,PayPal,0
+887,50,Female,East,2025-03-11 12:28:20.220644,Clothing,124.84,Debit Card,1
+888,20,Male,East,2025-05-03 12:28:20.220644,Sports,85.57,Debit Card,0
+889,47,Male,North,2025-01-28 12:28:20.220644,Electronics,127.16,Debit Card,0
+890,67,Female,North,2024-06-15 12:28:20.220644,Beauty,137.66,Debit Card,0
+891,29,Female,East,2024-09-25 12:28:20.220644,Clothing,32.33,Credit Card,1
+892,46,Male,West,2025-11-16 12:28:20.220644,Clothing,152.87,Debit Card,1
+893,20,Other,West,2024-03-20 12:28:20.220644,Home,61.88,Credit Card,1
+894,43,Female,West,2024-12-21 12:28:20.220644,Clothing,74.06,Debit Card,0
+895,47,Female,East,2024-10-15 12:28:20.220644,Beauty,125.24,Credit Card,0
+896,26,Female,West,2025-11-15 12:28:20.220644,Beauty,95.14,Credit Card,0
+897,43,Female,West,2025-02-06 12:28:20.220644,Clothing,96.72,Bank Transfer,1
+898,19,Male,East,2025-04-05 12:28:20.220644,Beauty,96.04,Credit Card,0
+899,20,Male,South,2024-09-27 12:28:20.220644,Clothing,26.64,Credit Card,0
+900,63,Female,South,2024-11-14 12:28:20.220644,Beauty,50.42,Credit Card,1
+901,21,Female,West,2024-04-16 12:28:20.220644,Electronics,234.82,PayPal,0
+902,42,Male,South,2025-04-20 12:28:20.220644,Electronics,41.09,Debit Card,0
+903,68,Female,West,2024-09-14 12:28:20.220644,Clothing,206.8,Debit Card,1
+904,30,Female,North,2025-10-08 12:28:20.220644,Home,277.76,PayPal,0
+905,56,Male,East,2024-07-17 12:28:20.220644,Home,5.06,Credit Card,0
+906,61,Male,East,2025-01-19 12:28:20.220644,Clothing,14.93,Credit Card,0
+907,52,Male,East,2025-08-06 12:28:20.220644,Electronics,114.84,Credit Card,0
+908,40,Female,South,2025-02-21 12:28:20.220644,Clothing,146.49,Debit Card,0
+909,26,Male,West,2025-02-23 12:28:20.220644,Beauty,90.76,Debit Card,1
+910,19,Male,East,2024-05-16 12:28:20.220644,Beauty,75.17,Credit Card,0
+911,58,Female,South,2024-12-14 12:28:20.220644,Electronics,122.04,Credit Card,1
+912,61,Female,East,2024-12-18 12:28:20.220644,Electronics,5.27,Credit Card,0
+913,48,Male,South,2025-07-28 12:28:20.220644,Beauty,47.2,Debit Card,0
+914,61,Male,South,2024-07-08 12:28:20.220644,Electronics,21.82,Credit Card,0
+915,64,Female,South,2025-10-24 12:28:20.220644,Electronics,59.73,Credit Card,1
+916,19,Female,West,2024-06-30 12:28:20.220644,Electronics,223.63,Credit Card,0
+917,49,Female,East,2024-02-20 12:28:20.220644,Clothing,202.91,Debit Card,1
+918,35,Female,East,2024-03-21 12:28:20.220644,Home,71.79,Debit Card,1
+919,30,Male,South,2024-09-04 12:28:20.220644,Home,175.71,Credit Card,1
+920,63,Male,South,2025-07-25 12:28:20.220644,Clothing,31.03,Debit Card,1
+921,22,Male,West,2025-01-27 12:28:20.220644,Beauty,20.35,Debit Card,0
+922,59,Male,East,2024-03-09 12:28:20.220644,Electronics,13.05,Bank Transfer,1
+923,61,Female,West,2024-10-15 12:28:20.220644,Beauty,11.66,Credit Card,1
+924,27,Male,North,2024-04-20 12:28:20.220644,Home,174.33,Debit Card,1
+925,60,Male,North,2025-06-22 12:28:20.220644,Home,131.07,Credit Card,0
+926,42,Other,West,2024-12-02 12:28:20.220644,Electronics,43.03,Credit Card,1
+927,51,Male,East,2025-04-17 12:28:20.220644,Electronics,106.02,Debit Card,0
+928,54,Male,North,2024-07-09 12:28:20.220644,Home,55.92,Credit Card,0
+929,47,Male,South,2025-08-08 12:28:20.220644,Home,43.28,Credit Card,1
+930,24,Female,West,2024-05-10 12:28:20.220644,Electronics,123.62,Credit Card,1
+931,23,Female,South,2025-04-25 12:28:20.220644,Sports,366.28,Credit Card,0
+932,20,Male,East,2025-07-14 12:28:20.220644,Sports,25.55,Credit Card,1
+933,30,Female,South,2025-10-19 12:28:20.220644,Home,188.96,Credit Card,0
+934,20,Female,South,2025-04-11 12:28:20.220644,Sports,76.9,Debit Card,0
+935,43,Female,West,2024-02-07 12:28:20.220644,Electronics,72.22,PayPal,0
+936,41,Female,North,2025-05-16 12:28:20.220644,Electronics,352.13,Credit Card,0
+937,23,Female,East,2024-01-20 12:28:20.220644,Electronics,215.57,Debit Card,1
+938,60,Female,West,2025-06-11 12:28:20.220644,Home,37.96,PayPal,0
+939,66,Male,North,2025-06-28 12:28:20.220644,Electronics,109.7,Credit Card,0
+940,59,Male,South,2024-06-09 12:28:20.220644,Sports,120.05,Credit Card,0
+941,29,Male,East,2025-05-14 12:28:20.220644,Electronics,47.39,PayPal,0
+942,66,Female,South,2024-02-06 12:28:20.220644,Clothing,119.61,Debit Card,1
+943,53,Female,South,2025-10-28 12:28:20.220644,Beauty,56.43,Credit Card,0
+944,19,Female,South,2025-07-20 12:28:20.220644,Electronics,82.7,Credit Card,0
+945,28,Male,East,2025-03-12 12:28:20.220644,Electronics,30.68,Debit Card,1
+946,56,Female,East,2024-10-31 12:28:20.220644,Home,129.16,Bank Transfer,0
+947,51,Female,East,2024-07-15 12:28:20.220644,Clothing,62.05,Credit Card,1
+948,43,Female,North,2025-07-19 12:28:20.220644,Electronics,227.96,Bank Transfer,0
+949,35,Female,East,2025-03-18 12:28:20.220644,Clothing,68.92,Credit Card,0
+950,38,Female,West,2025-09-07 12:28:20.220644,Home,227.45,Credit Card,1
+951,53,Female,East,2024-11-24 12:28:20.220644,Sports,58.67,Credit Card,1
+952,57,Female,East,2025-02-13 12:28:20.220644,Beauty,60.99,Debit Card,0
+953,69,Female,East,2024-12-01 12:28:20.220644,Clothing,150.24,Credit Card,1
+954,63,Male,West,2025-07-30 12:28:20.220644,Clothing,41.62,Credit Card,1
+955,61,Male,West,2025-08-30 12:28:20.220644,Home,85.45,PayPal,0
+956,39,Female,North,2025-07-11 12:28:20.220644,Sports,42.63,Bank Transfer,0
+957,47,Male,South,2024-03-28 12:28:20.220644,Electronics,299.51,Credit Card,0
+958,67,Other,South,2025-12-21 12:28:20.220644,Clothing,214.3,Credit Card,0
+959,60,Male,South,2025-05-12 12:28:20.220644,Beauty,87.85,PayPal,0
+960,47,Female,North,2024-04-09 12:28:20.220644,Sports,61.59,Debit Card,1
+961,25,Male,West,2024-08-31 12:28:20.220644,Electronics,30.95,Credit Card,0
+962,51,Male,North,2024-01-19 12:28:20.220644,Electronics,53.68,PayPal,1
+963,64,Female,East,2025-07-15 12:28:20.220644,Electronics,102.48,Credit Card,0
+964,26,Male,East,2024-03-04 12:28:20.220644,Electronics,28.28,Debit Card,0
+965,68,Male,North,2025-10-28 12:28:20.220644,Home,136.2,Credit Card,1
+966,37,Male,West,2025-02-11 12:28:20.220644,Beauty,187.02,Debit Card,0
+967,57,Female,West,2024-08-20 12:28:20.220644,Home,153.61,Credit Card,0
+968,42,Male,South,2025-03-15 12:28:20.220644,Electronics,45.15,Debit Card,0
+969,36,Female,South,2024-06-03 12:28:20.220644,Electronics,161.67,Bank Transfer,1
+970,22,Female,North,2025-01-09 12:28:20.220644,Electronics,95.43,Credit Card,0
+971,28,Female,East,2025-01-28 12:28:20.220644,Clothing,156.85,Debit Card,0
+972,32,Female,North,2025-07-26 12:28:20.220644,Beauty,165.24,Credit Card,1
+973,25,Female,East,2024-10-15 12:28:20.220644,Electronics,171.9,PayPal,1
+974,36,Male,West,2024-10-09 12:28:20.220644,Electronics,60.24,Bank Transfer,0
+975,40,Female,North,2024-01-26 12:28:20.220644,Clothing,228.06,PayPal,0
+976,44,Male,West,2024-11-05 12:28:20.220644,Clothing,47.62,Debit Card,1
+977,57,Female,North,2025-04-20 12:28:20.220644,Home,28.46,Bank Transfer,1
+978,49,Male,West,2025-06-22 12:28:20.220644,Beauty,74.19,Credit Card,0
+979,43,Female,North,2024-09-02 12:28:20.220644,Electronics,39.27,Credit Card,0
+980,44,Male,East,2025-08-09 12:28:20.220644,Beauty,121.27,Debit Card,1
+981,36,Male,South,2025-12-20 12:28:20.220644,Clothing,53.82,Credit Card,1
+982,67,Female,West,2024-02-08 12:28:20.220644,Clothing,119.89,PayPal,1
+983,59,Female,East,2025-04-27 12:28:20.220644,Sports,63.29,Debit Card,0
+984,46,Male,North,2024-04-14 12:28:20.220644,Electronics,119.75,Credit Card,0
+985,56,Female,East,2025-09-20 12:28:20.220644,Home,137.52,Credit Card,1
+986,58,Female,South,2024-11-16 12:28:20.220644,Clothing,55.96,Credit Card,0
+987,50,Other,East,2024-03-04 12:28:20.220644,Home,136.52,Debit Card,0
+988,36,Female,West,2024-11-26 12:28:20.220644,Beauty,10.9,Credit Card,0
+989,54,Male,South,2024-07-11 12:28:20.220644,Sports,14.86,Credit Card,0
+990,36,Male,South,2025-08-03 12:28:20.220644,Beauty,64.08,Debit Card,0
+991,50,Female,North,2024-05-11 12:28:20.220644,Home,89.09,PayPal,1
+992,64,Female,East,2024-02-24 12:28:20.220644,Electronics,72.22,PayPal,1
+993,33,Male,South,2025-10-20 12:28:20.220644,Beauty,126.8,Bank Transfer,1
+994,40,Male,South,2024-09-28 12:28:20.220644,Beauty,90.19,PayPal,1
+995,24,Female,North,2024-07-27 12:28:20.220644,Electronics,92.93,Credit Card,0
+996,43,Male,South,2025-10-18 12:28:20.220644,Clothing,47.11,PayPal,0
+997,49,Male,West,2024-09-23 12:28:20.220644,Beauty,152.59,Credit Card,0
+998,29,Male,South,2024-12-13 12:28:20.220644,Home,72.0,Debit Card,0
+999,25,Male,East,2025-07-18 12:28:20.220644,Clothing,202.25,Debit Card,1
+1000,22,Male,West,2025-05-28 12:28:20.220644,Sports,117.95,PayPal,0
