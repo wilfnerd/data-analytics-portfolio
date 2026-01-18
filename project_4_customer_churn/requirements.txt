@@ -1,0 +1,16 @@
+
+---
+
+## 🛠 Tools & Libraries
+- Python
+- pandas, numpy
+- scikit-learn
+- matplotlib, seaborn
+
+---
+
+## 📈 Business Value
+This model enables:
+- Proactive churn risk identification
+- Targeted retention campaigns
+- Data-driven contract and pricing strategies
