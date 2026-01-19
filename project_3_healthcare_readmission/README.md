@@ -42,7 +42,7 @@ The project focuses on clinical interpretability and healthcare-relevant metrics
 
 * Age was excluded due to preprocessing and feature selection decisions.
 * The model is intended for **risk stratification**, not diagnosis.
-* No visualizations were required for this project; emphasis is on modeling and interpretation.
+* Emphasis is on modeling and interpretation, not visualization.
 
 ## Next Steps
 

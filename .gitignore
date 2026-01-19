@@ -10,3 +10,12 @@ venv/
 
 # OS files
 .DS_Store
+
+# Large data files
+*.csv
+*.pkl
+
+# Model artifacts
+models/
+data/
+
