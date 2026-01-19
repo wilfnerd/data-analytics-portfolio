@@ -11,11 +11,6 @@ venv/
 # OS files
 .DS_Store
 
-# Large data files
-*.csv
-*.pkl
-
-# Model artifacts
-models/
-data/
-
+# ONLY ignore data and models for Project 5
+project_5_fraud_detection/data/
+project_5_fraud_detection/models/
