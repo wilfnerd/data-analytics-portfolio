@@ -35,14 +35,6 @@ The goal is to identify trends in demographics, spending patterns, product perfo
 - Electronics is the highest revenue-generating product category
 - Repeat customers place orders of similar value to one-time customers, indicating customer value is driven by purchase frequency rather than order size
 
-## Repository Structure
-
-
-## Next Steps
-- Build interactive dashboards in Tableau Public
-- Link Tableau dashboards to this repository
-- Expand analysis into SQL-based projects and predictive modeling
-
 ## Tableau Dashboard
 - 🔗 Interactive Dashboard: https://public.tableau.com/app/profile/ochuko.wilfred/viz/CustomerPurchaseBehaviorExecutiveDashboard/CustomerPurchaseBehaviour-ExecutiveOverview?publish=yes
 - 📸 Dashboard Preview:
