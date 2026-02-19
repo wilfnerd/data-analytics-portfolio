@@ -27,7 +27,7 @@ The goal is to identify trends in demographics, spending patterns, product perfo
 - matplotlib, seaborn
 - JupyterLab
 - Git & GitHub  
-- *(Tableau Public – dashboards to be added)*
+- Tableau Public Dashboard
 
 ## Key Insights
 - Customer purchases span a wide adult age range, with concentration among mature customers
